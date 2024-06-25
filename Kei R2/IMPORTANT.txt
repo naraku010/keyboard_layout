@@ -1,0 +1,9 @@
+In response to the requests for Kei plates, please note that by downloading these files you are agreeing with the following terms and conditions:
+
+1. MONOKEI does not provide support for any of these files provided, you agree to take full responsibility of its usage. These files are provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability. Whether in an action of contract, tort or otherwise, arising from, out of or in connection with the files or the use or other dealings in the software.
+
+2. Usage of custom plates is considered a modification, we cannot guarantee the full functionality of the intended keyboard with the plate. Any damages caused by the plate produced from this file will not be covered by MONOKEI.
+
+3.You agree that the production of the plates from the usage of this file, including all copies or substantial portions are for non-commercial use only, unless written permission has been granted. Group Buys are considered as commercial.
+
+
