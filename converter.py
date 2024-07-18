@@ -24,6 +24,6 @@ def print_files_in_dir(root_dir, prefix):
         elif ext in ['dwg', 'dxf']:
             convert(path, path.replace(f'.{ext}', '.png'), ext)
 
-print_files_in_dir('./', '')
+print_files_in_dir('./Matrix 6XV', '')
 
 # convert('./Brutal60/brutal60_standard.dxf', './Brutal60/brutal60_standard.png', 'dxf')
