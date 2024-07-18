@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3304bd33-bb6f-416f-b0ba-ece357d55c42" name="Changes" comment="ver0.3 폴더 정리중">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80-R2/Class80-R2_topre_6u Only.dxf" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/Class80-R2_topre_6u Only.dxf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80-R2/Class80-R2_topre_6u Only.png" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/Class80-R2_topre_6u Only.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80-R2/Class80-R2_topre_6u_7u.dxf" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/Class80-R2_topre_6u_7u.dxf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80-R2/Class80-R2_topre_6u_7u.png" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/Class80-R2_topre_6u_7u.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80-R2/class60_topre.dxf" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/class60_topre.dxf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80-R2/class60_topre.png" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/class60_topre.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80R2/CLASS-80-R2 7u Enter Key EC Plate.dwg" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/CLASS-80-R2 7u Enter Key EC Plate.dwg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80R2/CLASS-80-R2 EC Plate（2023-06-8-001）DWG.dwg" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/CLASS-80-R2 EC Plate（2023-06-8-001）DWG.dwg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80R2/CLASS-80-R2 MX Plate（2023-04-23）.DWG" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/CLASS-80-R2 MX Plate（2023-04-23）.DWG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80R2/Class 80R2 EC Split BS Plate .dwg" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/Class 80R2 EC Split BS Plate .dwg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80R2/Class80R2 ISO EC Plate.dwg" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/Class80R2 ISO EC Plate.dwg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/converter.py" afterDir="false" />
-    </list>
+    <list default="true" id="3304bd33-bb6f-416f-b0ba-ece357d55c42" name="Changes" comment="ver0.3 폴더 정리중" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +69,9 @@
       <recent name="C:\devSource\keyboard_layout\SingaKBD-Kohaku" />
       <recent name="C:\devSource\keyboard_layout\Satisfaction 75" />
       <recent name="C:\devSource\keyboard_layout\Matrix 3.3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\devSource\keyboard_layout\[MM Studio] Class80 R2" />
     </key>
   </component>
   <component name="RunManager">
@@ -211,7 +200,7 @@
       <workItem from="1721269172905" duration="220000" />
       <workItem from="1721269426957" duration="4818000" />
       <workItem from="1721282548861" duration="6091000" />
-      <workItem from="1721342518221" duration="465000" />
+      <workItem from="1721342518221" duration="805000" />
     </task>
     <task id="LOCAL-00001" summary="dfsad">
       <option name="closed" value="true" />
@@ -397,7 +386,31 @@
       <option name="project" value="LOCAL" />
       <updated>1721287973504</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="ver0.3 폴더 정리중">
+      <option name="closed" value="true" />
+      <created>1721343103962</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1721343103962</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ver0.3 폴더 정리중">
+      <option name="closed" value="true" />
+      <created>1721343117478</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1721343117478</updated>
+    </task>
+    <task id="LOCAL-00026" summary="ver0.3 폴더 정리중">
+      <option name="closed" value="true" />
+      <created>1721343226380</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1721343226380</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
