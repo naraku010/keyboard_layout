@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3304bd33-bb6f-416f-b0ba-ece357d55c42" name="Changes" comment="dfsad" />
+    <list default="true" id="3304bd33-bb6f-416f-b0ba-ece357d55c42" name="Changes" comment="ver0.3 폴더 정리중">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80-R2/Class80-R2_topre_6u Only.dxf" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/Class80-R2_topre_6u Only.dxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80-R2/Class80-R2_topre_6u Only.png" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/Class80-R2_topre_6u Only.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80-R2/Class80-R2_topre_6u_7u.dxf" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/Class80-R2_topre_6u_7u.dxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80-R2/Class80-R2_topre_6u_7u.png" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/Class80-R2_topre_6u_7u.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80-R2/class60_topre.dxf" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/class60_topre.dxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80-R2/class60_topre.png" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/class60_topre.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80R2/CLASS-80-R2 7u Enter Key EC Plate.dwg" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/CLASS-80-R2 7u Enter Key EC Plate.dwg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80R2/CLASS-80-R2 EC Plate（2023-06-8-001）DWG.dwg" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/CLASS-80-R2 EC Plate（2023-06-8-001）DWG.dwg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80R2/CLASS-80-R2 MX Plate（2023-04-23）.DWG" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/CLASS-80-R2 MX Plate（2023-04-23）.DWG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80R2/Class 80R2 EC Split BS Plate .dwg" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/Class 80R2 EC Split BS Plate .dwg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[MM Studio] Class80R2/Class80R2 ISO EC Plate.dwg" beforeDir="false" afterPath="$PROJECT_DIR$/[MM Studio] Class80 R2/Class80R2 ISO EC Plate.dwg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/converter.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,31 +58,31 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/devSource/keyboard_layout/SingaKBD-Kohaku",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/devSource/keyboard_layout/[Geonworks] F2-87&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\devSource\keyboard_layout\[Geonworks] F2-87" />
+      <recent name="C:\devSource\keyboard_layout\[SingaKBD] Unikorn60" />
       <recent name="C:\devSource\keyboard_layout\SingaKBD-Kohaku" />
       <recent name="C:\devSource\keyboard_layout\Satisfaction 75" />
       <recent name="C:\devSource\keyboard_layout\Matrix 3.3" />
-      <recent name="C:\devSource\keyboard_layout\Theca" />
-      <recent name="C:\devSource\keyboard_layout\Matrix 6XV" />
     </key>
   </component>
   <component name="RunManager">
@@ -196,6 +210,8 @@
       <workItem from="1721265820387" duration="3268000" />
       <workItem from="1721269172905" duration="220000" />
       <workItem from="1721269426957" duration="4818000" />
+      <workItem from="1721282548861" duration="6091000" />
+      <workItem from="1721342518221" duration="465000" />
     </task>
     <task id="LOCAL-00001" summary="dfsad">
       <option name="closed" value="true" />
@@ -341,14 +357,57 @@
       <option name="project" value="LOCAL" />
       <updated>1721272615111</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="ver0.3 폴더 정리중">
+      <option name="closed" value="true" />
+      <created>1721283880045</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1721283880045</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ver0.3 폴더 정리중">
+      <option name="closed" value="true" />
+      <created>1721283932375</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1721283932375</updated>
+    </task>
+    <task id="LOCAL-00021" summary="ver0.3 폴더 정리중">
+      <option name="closed" value="true" />
+      <created>1721284249546</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1721284249546</updated>
+    </task>
+    <task id="LOCAL-00022" summary="ver0.3 폴더 정리중">
+      <option name="closed" value="true" />
+      <created>1721285873272</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1721285873272</updated>
+    </task>
+    <task id="LOCAL-00023" summary="ver0.3 폴더 정리중">
+      <option name="closed" value="true" />
+      <created>1721287973504</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1721287973504</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="dfsad" />
-    <option name="LAST_COMMIT_MESSAGE" value="dfsad" />
+    <MESSAGE value="ver0.3 폴더 정리중" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver0.3 폴더 정리중" />
   </component>
 </project>
