@@ -24,6 +24,6 @@ def print_files_in_dir(root_dir, prefix):
         elif ext in ['dwg', 'dxf', 'DWG', 'DXF']:
             convert(path, path.replace(f'.{ext}', '.png'), ext)
 
-print_files_in_dir('./Chimera', '')
+print_files_in_dir('./[SingaKBD] Unikorn60', '')
 
 # convert('./Brutal60/brutal60_standard.dxf', './Brutal60/brutal60_standard.png', 'dxf')
