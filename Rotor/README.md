@@ -1,0 +1,1 @@
+rotor_hotswap_plate_dxf<br/>![image](./rotor_hotswap_plate_dxf.png)rotor_soldered_plate_dxf<br/>![image](./rotor_soldered_plate_dxf.png)

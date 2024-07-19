@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3304bd33-bb6f-416f-b0ba-ece357d55c42" name="Changes" comment="ver0.3 폴더 정리중" />
+    <list default="true" id="3304bd33-bb6f-416f-b0ba-ece357d55c42" name="Changes" comment="ver0.3 폴더 정리중">
+      <change afterPath="$PROJECT_DIR$/readme_gen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Viper-Eagle V2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Viper-Eagle V2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[Big Star] Meteor80 R2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/[Big Star] Meteor80 R2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[TGR] Jane Me v2 ce/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/[TGR] Jane Me v2 ce/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[Wuque Studio] Tata80/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/[Wuque Studio] Tata80/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,31 +51,31 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/devSource/keyboard_layout/[Geonworks] F2-87&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/devSource/keyboard_layout",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\devSource\keyboard_layout" />
       <recent name="C:\devSource\keyboard_layout\[Geonworks] F2-87" />
       <recent name="C:\devSource\keyboard_layout\[SingaKBD] Unikorn60" />
       <recent name="C:\devSource\keyboard_layout\SingaKBD-Kohaku" />
       <recent name="C:\devSource\keyboard_layout\Satisfaction 75" />
-      <recent name="C:\devSource\keyboard_layout\Matrix 3.3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\devSource\keyboard_layout\[MM Studio] Class80 R2" />
@@ -200,7 +207,7 @@
       <workItem from="1721269172905" duration="220000" />
       <workItem from="1721269426957" duration="4818000" />
       <workItem from="1721282548861" duration="6091000" />
-      <workItem from="1721342518221" duration="805000" />
+      <workItem from="1721342518221" duration="3353000" />
     </task>
     <task id="LOCAL-00001" summary="dfsad">
       <option name="closed" value="true" />
@@ -410,7 +417,39 @@
       <option name="project" value="LOCAL" />
       <updated>1721343226380</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="ver0.3 폴더 정리중">
+      <option name="closed" value="true" />
+      <created>1721343821062</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1721343821062</updated>
+    </task>
+    <task id="LOCAL-00028" summary="ver0.3 폴더 정리중">
+      <option name="closed" value="true" />
+      <created>1721343849396</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1721343849396</updated>
+    </task>
+    <task id="LOCAL-00029" summary="ver0.3 폴더 정리중">
+      <option name="closed" value="true" />
+      <created>1721343856796</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1721343856796</updated>
+    </task>
+    <task id="LOCAL-00030" summary="ver0.3 폴더 정리중">
+      <option name="closed" value="true" />
+      <created>1721343862064</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1721343862064</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
