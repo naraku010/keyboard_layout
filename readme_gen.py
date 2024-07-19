@@ -14,7 +14,7 @@ def convert(path):
             str += '<br/>'
             str += f'{fname}'
             str += '<br/>'
-            str += f'![image](./{fname}{ext})'
+            str += f'![image](./{fname.replace(" ", "%20")}{ext})'
             str += '<br/>\n'
     with open(f'{path}\README.md', 'w', encoding='utf-8') as f:
         f.write(str)
