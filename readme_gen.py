@@ -11,6 +11,7 @@ def convert(path):
         fname, ext = os.path.splitext(file)
         print(f'{fname} {ext}')
         if ext == '.png':
+            str += '<br/>'
             str += f'{fname}'
             str += '<br/>'
             str += f'![image](./{fname}{ext})'
