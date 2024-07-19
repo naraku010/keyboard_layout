@@ -33,8 +33,8 @@ def print_files_in_dir(root_dir, prefix):
         if os.path.isdir(path):
             print_files_in_dir(path, prefix + "    ")
         elif ext in ['dwg', 'dxf', 'DWG', 'DXF']:
-            # if not os.path.isfile(path.replace(f'.{ext}', '.png')):
-            convert(path, path.replace(f'.{ext}', '.png'), ext)
+            if not os.path.isfile(path.replace(f'.{ext}', '.png')):
+                convert(path, path.replace(f'.{ext}', '.png'), ext)
 
 print_files_in_dir('./', '')
 
