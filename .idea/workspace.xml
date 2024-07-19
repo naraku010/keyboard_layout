@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3304bd33-bb6f-416f-b0ba-ece357d55c42" name="Changes" comment="ver0.3 폴더 정리중" />
+    <list default="true" id="3304bd33-bb6f-416f-b0ba-ece357d55c42" name="Changes" comment="ver0.3 폴더 정리중">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme_gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/readme_gen.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,7 +203,7 @@
       <workItem from="1721269172905" duration="220000" />
       <workItem from="1721269426957" duration="4818000" />
       <workItem from="1721282548861" duration="6091000" />
-      <workItem from="1721342518221" duration="3520000" />
+      <workItem from="1721342518221" duration="3671000" />
     </task>
     <task id="LOCAL-00001" summary="dfsad">
       <option name="closed" value="true" />
@@ -450,7 +453,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721349372072</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="ver0.3 폴더 정리중">
+      <option name="closed" value="true" />
+      <created>1721349581586</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1721349581586</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
