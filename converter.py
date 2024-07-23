@@ -1,10 +1,12 @@
 import os
 import convertapi
-import aspose.cad as cad
+
+# import aspose.cad as cad
 
 folderPath = './'
 folder = os.listdir(folderPath)
 convertapi.api_secret = 'UiBuTt3SV0trFwi9'
+
 
 def convert(file_path, save_path, format):
     result = convertapi.convert('png', {
@@ -12,6 +14,7 @@ def convert(file_path, save_path, format):
         'ImageAntialiasing': '0'
     }, from_format=format)
     result.file.save(save_path)
+
 
 # def convert(file_path, save_path, format):
 #     image = cad.Image.load(file_path)
@@ -35,6 +38,7 @@ def print_files_in_dir(root_dir, prefix):
         elif ext in ['dwg', 'dxf', 'DWG', 'DXF']:
             if not os.path.isfile(path.replace(f'.{ext}', '.png')):
                 convert(path, path.replace(f'.{ext}', '.png'), ext)
+
 
 print_files_in_dir('./', '')
 
