@@ -5,7 +5,7 @@ import convertapi
 
 folderPath = './'
 folder = os.listdir(folderPath)
-convertapi.api_secret = 'UiBuTt3SV0trFwi9'
+convertapi.api_secret = 'wuvzVY0Caln9d9yd'
 
 
 def convert(file_path, save_path, format):
