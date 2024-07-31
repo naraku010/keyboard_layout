@@ -1,5 +1,7 @@
-# keyboard_layout
-키보드 보강판 도면자료
+## 기키갤 DB
+- https://mkgdb.kr
+## 기키갤 시뮬레이터
+- https://sim.mkgdb.kr
 
 ## 참고
 - 공제 키보드에 호환되는 기판(PCB) 리스트 정리 (In Progress...)
