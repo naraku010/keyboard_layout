@@ -1,9 +1,5 @@
-## 기키갤 DB
-- https://mkgdb.kr
-- ![image](https://github.com/user-attachments/assets/c54e1780-30cb-4c15-b53e-6509351c3851)
-
 ## 기키갤 시뮬레이터
-- https://sim.mkgdb.kr
+- https://mkgdb.kr
 - ![image](https://github.com/user-attachments/assets/2a3f08b6-8841-463a-88ba-cbe37a2099b0)
 
 ## 참고
