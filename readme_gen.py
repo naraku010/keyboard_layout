@@ -16,8 +16,9 @@ def convert(path):
             str += '<br/>'
             str += f'![image](./{fname.replace(" ", "%20")}{ext})'
             str += '<br/>\n'
-    with open(f'{path}\README.md', 'w', encoding='utf-8') as f:
-        f.write(str)
+    if str != '':
+        with open(f'{path}\README.md', 'w', encoding='utf-8') as f:
+            f.write(str)
 
 
 
@@ -26,7 +27,10 @@ def print_files_in_dir(root_dir, prefix):
     for file in files:
         path = os.path.join(root_dir, file)
         if os.path.isdir(path):
-            convert(path)
+            if file.startswith('['):
+                convert(path)
+            else:
+                print_files_in_dir(path, prefix)
 
 
 print_files_in_dir('./', '')

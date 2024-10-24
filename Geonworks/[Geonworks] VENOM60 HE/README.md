@@ -1,1 +1,1 @@
-<br/>VENOM60HE_PLATE_SHARE<br/>![image](VENOM60HE_PLATE_SHARE.png)<br/>
+<br/>VENOM60HE_PLATE_SHARE<br/>![image](./VENOM60HE_PLATE_SHARE.png)<br/>

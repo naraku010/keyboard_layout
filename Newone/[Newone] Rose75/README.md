@@ -1,0 +1,1 @@
+<br/>240823 ROSE75 PLATE<br/>![image](./240823%20ROSE75%20PLATE.png)<br/>

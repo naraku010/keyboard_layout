@@ -1,1 +1,1 @@
-<br/>Sangeo60_plate<br/>![image](Sangeo60_plate.png)<br/>
+<br/>Sangeo60_plate<br/>![image](./Sangeo60_plate.png)<br/>

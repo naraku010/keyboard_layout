@@ -1,1 +1,1 @@
-<br/>AndromedaPlate<br/>![image](AndromedaPlate.png)<br/>
+<br/>AndromedaPlate<br/>![image](./AndromedaPlate.png)<br/>
