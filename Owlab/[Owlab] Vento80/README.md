@@ -1,1 +1,1 @@
-<br/>vento80(검증필요)<br/>![image](./vento80(검증필요).png)<br/>
+<br/>vento80_7u_only<br/>![image](./vento80_7u_only.png)<br/>
