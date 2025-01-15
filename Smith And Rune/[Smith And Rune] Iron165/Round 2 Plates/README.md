@@ -1,0 +1,1 @@
+The files in this folder are plate and badge files for personal use only. These are not intended for commercial use or gain and are subject to terms per the license within the main repository folder. 
