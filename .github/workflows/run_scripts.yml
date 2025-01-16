@@ -1,0 +1,38 @@
+name: Run Python Scripts
+
+on:
+  push:
+    paths:
+      - converter.py
+      - readme_gen.py
+    branches:
+      - main  # 원하는 브랜치에 따라 수정
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 저장소 체크아웃
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. Python 설정
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'  # 사용하려는 Python 버전
+
+      # 3. 의존성 설치 (필요 시)
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # 필요 시 추가
+
+      # 4. converter.py 실행
+      - name: Run converter.py
+        run: python converter.py
+
+      # 5. readme_gen.py 실행
+      - name: Run readme_gen.py
+        run: python readme_gen.py
