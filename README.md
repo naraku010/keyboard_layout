@@ -5,7 +5,7 @@
 > https://kbdlab.co.kr/index.php?mid=board_etc&document_srl=6638372
 
 ## 🛜 기키갤 시뮬레이터
-> ### https://mkgdb.kr
+> ### https://mkg-sim.vercel.app/
 >
 > ![image](https://github.com/user-attachments/assets/2a3f08b6-8841-463a-88ba-cbe37a2099b0)
 ***
