@@ -11,7 +11,14 @@
 > ### https://mkg-sim.vercel.app/
 >
 > ![image](https://github.com/user-attachments/assets/2a3f08b6-8841-463a-88ba-cbe37a2099b0)
+## 🛜 키보드 보강판 자료
+> ### https://mkg-sim.vercel.app/
+>
+> <img width="1603" height="867" alt="image" src="https://github.com/user-attachments/assets/90d2aafb-48cc-42ee-b9ea-d06a4239820a" />
+
 ***
+
+
 # 🆙 업데이트
 ### 2024-10-25
 > 폴더정리
