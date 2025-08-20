@@ -8,8 +8,7 @@
 > GMK 키캡 찾기
 > ### https://gmk-keycap-finder.vercel.app/
 > 
-> <img width="1524" height="836" alt="image" src="https://github.com/user-attachments/assets/
-bc43ccba-2e43-4cb9-8823-c8994b2105bc" />
+> <img width="1524" height="836" alt="image" src="https://github.com/user-attachments/assets/bc43ccba-2e43-4cb9-8823-c8994b2105bc" />
 ## 🛜 기키갤 시뮬레이터
 > ### https://mkg-sim.vercel.app/
 >
@@ -17,8 +16,7 @@ bc43ccba-2e43-4cb9-8823-c8994b2105bc" />
 ## 🛜 키보드 보강판 자료실
 > ### https://keyboard-plate.vercel.app/
 >
-> <img width="1603" height="867" alt="image" src="https://github.com/user-attachments/assets/
-90d2aafb-48cc-42ee-b9ea-d06a4239820a" />
+> <img width="1603" height="867" alt="image" src="https://github.com/user-attachments/assets/90d2aafb-48cc-42ee-b9ea-d06a4239820a" />
 # 🎹 Keyboard Layout Collection
 
 키보드 레이아웃과 플레이트 도면을 체계적으로 정리한 저장소입니다.
