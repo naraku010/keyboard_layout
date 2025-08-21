@@ -2081,6 +2081,15 @@
     },
     {
       "brandName": "JJW",
+      "keyboardName": "[JJW] Derivative R1",
+      "fileName": "Plate File for Derivative with Venom Mount.dwg",
+      "filePath": "JJW\\[JJW] Derivative R1\\Plate File for Derivative with Venom Mount.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/JJW\\[JJW] Derivative R1/Plate File for Derivative with Venom Mount.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/JJW",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/JJW\\[JJW] Derivative R1"
+    },
+    {
+      "brandName": "JJW",
       "keyboardName": "[JJW] Moment R1",
       "fileName": "moment_full_plate_metal-ansi.dxf",
       "filePath": "JJW\\[JJW] Moment R1\\moment_full_plate_metal-ansi.dxf",
@@ -6239,12 +6248,39 @@
     },
     {
       "brandName": "Stilou Studio",
+      "keyboardName": "[Stilou Studio] BEAK6.5",
+      "fileName": "beak6.5_PLATE v1.dwg",
+      "filePath": "Stilou Studio\\[Stilou Studio] BEAK6.5\\beak6.5_PLATE v1.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Stilou Studio\\[Stilou Studio] BEAK6.5/beak6.5_PLATE v1.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Stilou Studio",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Stilou Studio\\[Stilou Studio] BEAK6.5"
+    },
+    {
+      "brandName": "Stilou Studio",
       "keyboardName": "[Stilou Studio] Spectacle60",
       "fileName": "Sp60_8-16_stp.dxf",
       "filePath": "Stilou Studio\\[Stilou Studio] Spectacle60\\Sp60_8-16_stp.dxf",
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Stilou Studio\\[Stilou Studio] Spectacle60/Sp60_8-16_stp.png",
       "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Stilou Studio",
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Stilou Studio\\[Stilou Studio] Spectacle60"
+    },
+    {
+      "brandName": "Swagkey",
+      "keyboardName": "[Swagkey] Eave65",
+      "fileName": "EAVE Plate.dwg",
+      "filePath": "Swagkey\\[Swagkey] Eave65\\EAVE Plate.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Swagkey\\[Swagkey] Eave65/EAVE Plate.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Swagkey",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Swagkey\\[Swagkey] Eave65"
+    },
+    {
+      "brandName": "Swagkey",
+      "keyboardName": "[Swagkey] Shelby65",
+      "fileName": "Shelby65_plate无空格耳朵.dwg",
+      "filePath": "Swagkey\\[Swagkey] Shelby65\\Shelby65_plate无空格耳朵.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Swagkey\\[Swagkey] Shelby65/Shelby65_plate无空格耳朵.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Swagkey",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Swagkey\\[Swagkey] Shelby65"
     },
     {
       "brandName": "Swagkey",
@@ -6347,21 +6383,102 @@
     },
     {
       "brandName": "TGR",
-      "keyboardName": "[TGR] 901-v2-me",
-      "fileName": "tgr-910-v2-me-plate-gaf_version.dxf",
-      "filePath": "TGR\\[TGR] 901-v2-me\\tgr-910-v2-me-plate-gaf_version.dxf",
-      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] 901-v2-me/tgr-910-v2-me-plate-gaf_version.png",
+      "keyboardName": "[TGR] 910-v2-me",
+      "fileName": "910ME_BPlate.DWG",
+      "filePath": "TGR\\[TGR] 910-v2-me\\910ME_BPlate.DWG",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] 910-v2-me/910ME_BPlate.png",
       "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR",
-      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] 901-v2-me"
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] 910-v2-me"
     },
     {
       "brandName": "TGR",
-      "keyboardName": "[TGR] 901-v2-me",
-      "fileName": "tgr-910-v2-me-plate-public.dxf",
-      "filePath": "TGR\\[TGR] 901-v2-me\\tgr-910-v2-me-plate-public.dxf",
-      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] 901-v2-me/tgr-910-v2-me-plate-public.png",
+      "keyboardName": "[TGR] 910-v2-me",
+      "fileName": "910v2_SWPlate.DWG",
+      "filePath": "TGR\\[TGR] 910-v2-me\\910v2_SWPlate.DWG",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] 910-v2-me/910v2_SWPlate.png",
       "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR",
-      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] 901-v2-me"
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] 910-v2-me"
+    },
+    {
+      "brandName": "TGR",
+      "keyboardName": "[TGR] 910-v2-me",
+      "fileName": "tgr-910-v2-me-plate-gaf_version.dxf",
+      "filePath": "TGR\\[TGR] 910-v2-me\\tgr-910-v2-me-plate-gaf_version.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] 910-v2-me/tgr-910-v2-me-plate-gaf_version.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] 910-v2-me"
+    },
+    {
+      "brandName": "TGR",
+      "keyboardName": "[TGR] 910-v2-me",
+      "fileName": "tgr-910-v2-me-plate-public.dxf",
+      "filePath": "TGR\\[TGR] 910-v2-me\\tgr-910-v2-me-plate-public.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] 910-v2-me/tgr-910-v2-me-plate-public.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] 910-v2-me"
+    },
+    {
+      "brandName": "TGR",
+      "keyboardName": "[TGR] Dolice",
+      "fileName": "DOLICE_BP_public.dwg",
+      "filePath": "TGR\\[TGR] Dolice\\DOLICE_BP_public.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] Dolice/DOLICE_BP_public.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] Dolice"
+    },
+    {
+      "brandName": "TGR",
+      "keyboardName": "[TGR] Dolice",
+      "fileName": "DOLICE_PLATE_public.dwg",
+      "filePath": "TGR\\[TGR] Dolice\\DOLICE_PLATE_public.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] Dolice/DOLICE_PLATE_public.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] Dolice"
+    },
+    {
+      "brandName": "TGR",
+      "keyboardName": "[TGR] GAF 910 Back Plate",
+      "fileName": "910_v3bp_gaf.dwg",
+      "filePath": "TGR\\[TGR] GAF 910 Back Plate\\910_v3bp_gaf.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] GAF 910 Back Plate/910_v3bp_gaf.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] GAF 910 Back Plate"
+    },
+    {
+      "brandName": "TGR",
+      "keyboardName": "[TGR] Jane Me v2 ce",
+      "fileName": "JaneME_BPlate.DWG",
+      "filePath": "TGR\\[TGR] Jane Me v2 ce\\JaneME_BPlate.DWG",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] Jane Me v2 ce/JaneME_BPlate.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] Jane Me v2 ce"
+    },
+    {
+      "brandName": "TGR",
+      "keyboardName": "[TGR] Jane Me v2 ce",
+      "fileName": "JaneV2F12_SWPlate.dwg",
+      "filePath": "TGR\\[TGR] Jane Me v2 ce\\JaneV2F12_SWPlate.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] Jane Me v2 ce/JaneV2F12_SWPlate.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] Jane Me v2 ce"
+    },
+    {
+      "brandName": "TGR",
+      "keyboardName": "[TGR] Jane Me v2 ce",
+      "fileName": "Janev2_CE_BPlate.dwg",
+      "filePath": "TGR\\[TGR] Jane Me v2 ce\\Janev2_CE_BPlate.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] Jane Me v2 ce/Janev2_CE_BPlate.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] Jane Me v2 ce"
+    },
+    {
+      "brandName": "TGR",
+      "keyboardName": "[TGR] Jane Me v2 ce",
+      "fileName": "Janev2_SWPlate.DWG",
+      "filePath": "TGR\\[TGR] Jane Me v2 ce\\Janev2_SWPlate.DWG",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] Jane Me v2 ce/Janev2_SWPlate.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] Jane Me v2 ce"
     },
     {
       "brandName": "TGR",
@@ -7650,7 +7767,7 @@
         {
           "brandName": "JJW",
           "keyboardName": "[JJW] Derivative R1",
-          "fileName": "derivative_r1_plate-metal-full-newspec_ansi.dxf, derivative_r1_plate-metal-half-newspec_ansi.dxf, derivative_r1_plate-plastic-full-newspec_ansi.dxf, derivative_r1_plate-plastic-half-newspec_ansi.dxf",
+          "fileName": "derivative_r1_plate-metal-full-newspec_ansi.dxf, derivative_r1_plate-metal-half-newspec_ansi.dxf, derivative_r1_plate-plastic-full-newspec_ansi.dxf, derivative_r1_plate-plastic-half-newspec_ansi.dxf, Plate File for Derivative with Venom Mount.dwg",
           "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/JJW\\[JJW] Derivative R1/derivative_r1_plate-metal-full-newspec_ansi.png",
           "filePath": "JJW\\[JJW] Derivative R1\\derivative_r1_plate-metal-full-newspec_ansi.dxf",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/JJW",
@@ -9893,6 +10010,15 @@
       "keyboards": [
         {
           "brandName": "Stilou Studio",
+          "keyboardName": "[Stilou Studio] BEAK6.5",
+          "fileName": "beak6.5_PLATE v1.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Stilou Studio\\[Stilou Studio] BEAK6.5/beak6.5_PLATE v1.png",
+          "filePath": "Stilou Studio\\[Stilou Studio] BEAK6.5\\beak6.5_PLATE v1.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Stilou Studio",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Stilou Studio\\[Stilou Studio] BEAK6.5"
+        },
+        {
+          "brandName": "Stilou Studio",
           "keyboardName": "[Stilou Studio] Spectacle60",
           "fileName": "Sp60_8-16_stp.dxf",
           "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Stilou Studio\\[Stilou Studio] Spectacle60/Sp60_8-16_stp.png",
@@ -9905,6 +10031,24 @@
     {
       "name": "Swagkey",
       "keyboards": [
+        {
+          "brandName": "Swagkey",
+          "keyboardName": "[Swagkey] Eave65",
+          "fileName": "EAVE Plate.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Swagkey\\[Swagkey] Eave65/EAVE Plate.png",
+          "filePath": "Swagkey\\[Swagkey] Eave65\\EAVE Plate.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Swagkey",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Swagkey\\[Swagkey] Eave65"
+        },
+        {
+          "brandName": "Swagkey",
+          "keyboardName": "[Swagkey] Shelby65",
+          "fileName": "Shelby65_plate无空格耳朵.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Swagkey\\[Swagkey] Shelby65/Shelby65_plate无空格耳朵.png",
+          "filePath": "Swagkey\\[Swagkey] Shelby65\\Shelby65_plate无空格耳朵.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Swagkey",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Swagkey\\[Swagkey] Shelby65"
+        },
         {
           "brandName": "Swagkey",
           "keyboardName": "[Swagkey] Shelby80",
@@ -9985,19 +10129,37 @@
       "keyboards": [
         {
           "brandName": "TGR",
-          "keyboardName": "[TGR] 901-v2-me",
-          "fileName": "tgr-910-v2-me-plate-gaf_version.dxf, tgr-910-v2-me-plate-public.dxf",
-          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] 901-v2-me/tgr-910-v2-me-plate-gaf_version.png",
-          "filePath": "TGR\\[TGR] 901-v2-me\\tgr-910-v2-me-plate-gaf_version.dxf",
+          "keyboardName": "[TGR] 910-v2-me",
+          "fileName": "910ME_BPlate.DWG, 910v2_SWPlate.DWG, tgr-910-v2-me-plate-gaf_version.dxf, tgr-910-v2-me-plate-public.dxf",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] 910-v2-me/910ME_BPlate.png",
+          "filePath": "TGR\\[TGR] 910-v2-me\\910ME_BPlate.DWG",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR",
-          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] 901-v2-me"
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] 910-v2-me"
+        },
+        {
+          "brandName": "TGR",
+          "keyboardName": "[TGR] Dolice",
+          "fileName": "DOLICE_BP_public.dwg, DOLICE_PLATE_public.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] Dolice/DOLICE_BP_public.png",
+          "filePath": "TGR\\[TGR] Dolice\\DOLICE_BP_public.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] Dolice"
+        },
+        {
+          "brandName": "TGR",
+          "keyboardName": "[TGR] GAF 910 Back Plate",
+          "fileName": "910_v3bp_gaf.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] GAF 910 Back Plate/910_v3bp_gaf.png",
+          "filePath": "TGR\\[TGR] GAF 910 Back Plate\\910_v3bp_gaf.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] GAF 910 Back Plate"
         },
         {
           "brandName": "TGR",
           "keyboardName": "[TGR] Jane Me v2 ce",
-          "fileName": "v2 ce.dwg",
-          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] Jane Me v2 ce/v2 ce.png",
-          "filePath": "TGR\\[TGR] Jane Me v2 ce\\v2 ce.dwg",
+          "fileName": "JaneME_BPlate.DWG, JaneV2F12_SWPlate.dwg, Janev2_CE_BPlate.dwg, Janev2_SWPlate.DWG, v2 ce.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TGR\\[TGR] Jane Me v2 ce/JaneME_BPlate.png",
+          "filePath": "TGR\\[TGR] Jane Me v2 ce\\JaneME_BPlate.DWG",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR",
           "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TGR\\[TGR] Jane Me v2 ce"
         },
@@ -10137,7 +10299,7 @@
       ]
     }
   ],
-  "generatedAt": "2025-08-20T10:28:10.622115Z",
-  "totalPlates": 756,
+  "generatedAt": "2025-08-21T11:18:47.396385Z",
+  "totalPlates": 769,
   "totalBrands": 63
 }
