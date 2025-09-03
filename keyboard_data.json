@@ -3756,6 +3756,24 @@
     {
       "brandName": "Keycult",
       "keyboardName": "[Keycult] No.2 65",
+      "fileName": "No265-Plate-NoLeaf-Snhole.dxf",
+      "filePath": "Keycult\\[Keycult] No.2 65\\No265-Plate-NoLeaf-Snhole.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Keycult\\[Keycult] No.2 65/No265-Plate-NoLeaf-Snhole.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Keycult",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Keycult\\[Keycult] No.2 65"
+    },
+    {
+      "brandName": "Keycult",
+      "keyboardName": "[Keycult] No.2 65",
+      "fileName": "No265-Plate-NoLeaf-Sphole.dxf",
+      "filePath": "Keycult\\[Keycult] No.2 65\\No265-Plate-NoLeaf-Sphole.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Keycult\\[Keycult] No.2 65/No265-Plate-NoLeaf-Sphole.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Keycult",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Keycult\\[Keycult] No.2 65"
+    },
+    {
+      "brandName": "Keycult",
+      "keyboardName": "[Keycult] No.2 65",
       "fileName": "No265-Plate-NoLeaf.dxf",
       "filePath": "Keycult\\[Keycult] No.2 65\\No265-Plate-NoLeaf.dxf",
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Keycult\\[Keycult] No.2 65/No265-Plate-NoLeaf.png",
@@ -4227,6 +4245,15 @@
       "fileName": "Montage_acoustic_hole(logo).dwg",
       "filePath": "Linworks\\[Linworks] Montage\\Montage_acoustic_hole(logo).dwg",
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Linworks\\[Linworks] Montage/Montage_acoustic_hole(logo).png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Linworks",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Linworks\\[Linworks] Montage"
+    },
+    {
+      "brandName": "Linworks",
+      "keyboardName": "[Linworks] Montage",
+      "fileName": "Montage_FRANKENSTEIN.dwg",
+      "filePath": "Linworks\\[Linworks] Montage\\Montage_FRANKENSTEIN.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Linworks\\[Linworks] Montage/Montage_FRANKENSTEIN.png",
       "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Linworks",
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Linworks\\[Linworks] Montage"
     },
@@ -5840,6 +5867,15 @@
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Qwertykeys\\[Qwertykeys] Neo80/neo80.png",
       "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys",
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys\\[Qwertykeys] Neo80"
+    },
+    {
+      "brandName": "Qwertykeys",
+      "keyboardName": "[Qwertykeys] QK Alice Duo",
+      "fileName": "QK ALICE DUO - plate file.dwg",
+      "filePath": "Qwertykeys\\[Qwertykeys] QK Alice Duo\\QK ALICE DUO - plate file.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Qwertykeys\\[Qwertykeys] QK Alice Duo/QK ALICE DUO - plate file.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys\\[Qwertykeys] QK Alice Duo"
     },
     {
       "brandName": "Qwertykeys",
@@ -8750,7 +8786,7 @@
         {
           "brandName": "Keycult",
           "keyboardName": "[Keycult] No.2 65",
-          "fileName": "No265-Plate-Leaf.dxf, No265-Plate-Leaf_슷바뻥.dxf, No265-Plate-Leaf_키팸수정.dxf, No265-Plate-Leaf_슷바뻥.dxf, No265-Plate-Leaf_키팸수정.dxf, No265-Plate-NoLeaf-Partial.dxf, No265-Plate-NoLeaf.dxf",
+          "fileName": "No265-Plate-Leaf.dxf, No265-Plate-Leaf_슷바뻥.dxf, No265-Plate-Leaf_키팸수정.dxf, No265-Plate-Leaf_슷바뻥.dxf, No265-Plate-Leaf_키팸수정.dxf, No265-Plate-NoLeaf-Partial.dxf, No265-Plate-NoLeaf-Snhole.dxf, No265-Plate-NoLeaf-Sphole.dxf, No265-Plate-NoLeaf.dxf",
           "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Keycult\\[Keycult] No.2 65/No265-Plate-Leaf.png",
           "filePath": "Keycult\\[Keycult] No.2 65\\No265-Plate-Leaf.dxf",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Keycult",
@@ -9010,7 +9046,7 @@
         {
           "brandName": "Linworks",
           "keyboardName": "[Linworks] Montage",
-          "fileName": "Montage_acoustic_hole(logo).dwg, Montage_island_plate.dwg, Montage_plate.dwg, Montage_plate_2type_mount.dwg, Montage_plate_acoustic_sbar.dwg",
+          "fileName": "Montage_acoustic_hole(logo).dwg, Montage_FRANKENSTEIN.dwg, Montage_island_plate.dwg, Montage_plate.dwg, Montage_plate_2type_mount.dwg, Montage_plate_acoustic_sbar.dwg",
           "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Linworks\\[Linworks] Montage/Montage_acoustic_hole(logo).png",
           "filePath": "Linworks\\[Linworks] Montage\\Montage_acoustic_hole(logo).dwg",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Linworks",
@@ -9828,6 +9864,15 @@
         },
         {
           "brandName": "Qwertykeys",
+          "keyboardName": "[Qwertykeys] QK Alice Duo",
+          "fileName": "QK ALICE DUO - plate file.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Qwertykeys\\[Qwertykeys] QK Alice Duo/QK ALICE DUO - plate file.png",
+          "filePath": "Qwertykeys\\[Qwertykeys] QK Alice Duo\\QK ALICE DUO - plate file.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys\\[Qwertykeys] QK Alice Duo"
+        },
+        {
+          "brandName": "Qwertykeys",
           "keyboardName": "[Qwertykeys] QK100",
           "fileName": "100_PC&POM.dwg",
           "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Qwertykeys\\[Qwertykeys] QK100/100_PC&POM.png",
@@ -10299,7 +10344,7 @@
       ]
     }
   ],
-  "generatedAt": "2025-08-21T11:18:47.396385Z",
-  "totalPlates": 769,
+  "generatedAt": "2025-09-03T16:02:47.471741Z",
+  "totalPlates": 773,
   "totalBrands": 63
 }
