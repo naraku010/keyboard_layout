@@ -4,8 +4,8 @@ echo 키보드 레이아웃 데이터 생성 시작
 echo ========================================
 echo.
 
-echo 1. convert.py 실행 중...
-python convert.py
+echo 1. converter.py 실행 중...
+python converter.py
 if %errorlevel% neq 0 (
     echo 오류: convert.py 실행 실패
     pause
