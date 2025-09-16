@@ -1558,6 +1558,15 @@
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/GRIT\\[GRIT] Dune65"
     },
     {
+      "brandName": "GRIT",
+      "keyboardName": "[GRIT] Wraith60",
+      "fileName": "Wraith60-Plate.dwg",
+      "filePath": "GRIT\\[GRIT] Wraith60\\Wraith60-Plate.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/GRIT\\[GRIT] Wraith60/Wraith60-Plate.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/GRIT",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/GRIT\\[GRIT] Wraith60"
+    },
+    {
       "brandName": "Hand Engineering",
       "keyboardName": "[Hand Engineering] 2000 Mini SE",
       "fileName": "s2000mini_full_plate.dwg",
@@ -7653,6 +7662,15 @@
           "filePath": "GRIT\\[GRIT] Dune65\\Dune65_full plate.dwg",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/GRIT",
           "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/GRIT\\[GRIT] Dune65"
+        },
+        {
+          "brandName": "GRIT",
+          "keyboardName": "[GRIT] Wraith60",
+          "fileName": "Wraith60-Plate.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/GRIT\\[GRIT] Wraith60/Wraith60-Plate.png",
+          "filePath": "GRIT\\[GRIT] Wraith60\\Wraith60-Plate.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/GRIT",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/GRIT\\[GRIT] Wraith60"
         }
       ]
     },
@@ -10353,7 +10371,7 @@
       ]
     }
   ],
-  "generatedAt": "2025-09-08T08:11:06.060862Z",
-  "totalPlates": 774,
+  "generatedAt": "2025-09-16T17:15:48.119964Z",
+  "totalPlates": 775,
   "totalBrands": 63
 }
