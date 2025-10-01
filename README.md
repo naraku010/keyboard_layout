@@ -21,6 +21,9 @@
 
 키보드 레이아웃과 플레이트 도면을 체계적으로 정리한 저장소입니다.
 
+# 커피사주기
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=naraku010&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/naraku010)
+
 ## 📁 프로젝트 구조
 
 ```
