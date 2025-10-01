@@ -109,6 +109,33 @@
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Archon\\[Archon] Fx2(GX)"
     },
     {
+      "brandName": "Atelier Haven",
+      "keyboardName": "[Atelier Haven] Haven 60",
+      "fileName": "haven60.dwg",
+      "filePath": "Atelier Haven\\[Atelier Haven] Haven 60\\haven60.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Atelier Haven\\[Atelier Haven] Haven 60/haven60.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Atelier Haven",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Atelier Haven\\[Atelier Haven] Haven 60"
+    },
+    {
+      "brandName": "Atelier Haven",
+      "keyboardName": "[Atelier Haven] Haven 60",
+      "fileName": "haven60_5핀슷바뻥.dwg",
+      "filePath": "Atelier Haven\\[Atelier Haven] Haven 60\\haven60_5핀슷바뻥.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Atelier Haven\\[Atelier Haven] Haven 60/haven60_5핀슷바뻥.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Atelier Haven",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Atelier Haven\\[Atelier Haven] Haven 60"
+    },
+    {
+      "brandName": "Atelier Haven",
+      "keyboardName": "[Atelier Haven] Haven 60",
+      "fileName": "haven60_슷바뻥.dwg",
+      "filePath": "Atelier Haven\\[Atelier Haven] Haven 60\\haven60_슷바뻥.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Atelier Haven\\[Atelier Haven] Haven 60/haven60_슷바뻥.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Atelier Haven",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Atelier Haven\\[Atelier Haven] Haven 60"
+    },
+    {
       "brandName": "Baionlenja",
       "keyboardName": "[Baionlenja] Bias DE",
       "fileName": "BIAS_DE_PLATEFILE_1774045101.dxf",
@@ -7051,6 +7078,20 @@
       ]
     },
     {
+      "name": "Atelier Haven",
+      "keyboards": [
+        {
+          "brandName": "Atelier Haven",
+          "keyboardName": "[Atelier Haven] Haven 60",
+          "fileName": "haven60.dwg, haven60_5핀슷바뻥.dwg, haven60_슷바뻥.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Atelier Haven\\[Atelier Haven] Haven 60/haven60.png",
+          "filePath": "Atelier Haven\\[Atelier Haven] Haven 60\\haven60.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Atelier Haven",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Atelier Haven\\[Atelier Haven] Haven 60"
+        }
+      ]
+    },
+    {
       "name": "Baionlenja",
       "keyboards": [
         {
@@ -10398,7 +10439,7 @@
       ]
     }
   ],
-  "generatedAt": "2025-10-01T11:47:26.866284Z",
-  "totalPlates": 777,
-  "totalBrands": 63
+  "generatedAt": "2025-10-01T11:47:55.229739Z",
+  "totalPlates": 780,
+  "totalBrands": 64
 }
