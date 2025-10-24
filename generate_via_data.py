@@ -9,6 +9,7 @@ import json
 from pathlib import Path
 from typing import List, Dict, Any
 from datetime import datetime
+from urllib.parse import quote
 
 def is_json_file(filename: str) -> bool:
     """파일이 JSON인지 확인"""
@@ -40,13 +41,17 @@ def explore_directory(directory_path: str = "C:\\Users\\user\\IdeaProjects\\via_
                         file_path = os.path.join(root, file)
                         rel_file_path = os.path.join(rel_path, file)
                         
+                        # URL 인코딩 (특수문자 처리)
+                        encoded_brand_name = quote(brand_name)
+                        encoded_rel_path = quote(rel_path.replace(os.sep, '/'))
+                        
                         via_data = {
                             "brandName": brand_name,
                             "keyboardName": keyboard_name,
                             "fileName": file,
                             "filePath": rel_file_path.replace('\\', '/'),
-                            "brandGithubUrl": f"https://github.com/KBD-Type-S/via_json/tree/main/{brand_name}",
-                            "keyboardGithubUrl": f"https://github.com/KBD-Type-S/via_json/tree/main/{rel_path.replace(os.sep, '/')}"
+                            "brandGithubUrl": f"https://github.com/KBD-Type-S/via_json/tree/main/{encoded_brand_name}",
+                            "keyboardGithubUrl": f"https://github.com/KBD-Type-S/via_json/tree/main/{encoded_rel_path}"
                         }
                         
                         via_files.append(via_data)
