@@ -34,6 +34,16 @@ if %errorlevel% neq 0 (
 echo generate_keyboard_data.py 완료
 echo.
 
+echo 4. generate_via_data.py 실행 중...
+python generate_via_data.py
+if %errorlevel% neq 0 (
+    echo 오류: generate_via_data.py 실행 실패
+    pause
+    exit /b 1
+)
+echo generate_via_data.py 완료
+echo.
+
 echo ========================================
 echo 모든 스크립트 실행 완료!
 echo ========================================
