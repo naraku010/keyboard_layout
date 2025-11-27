@@ -27,6 +27,14 @@
     {
       "brandName": "Baionlenja",
       "keyboardName": "[Baionlenja] Bias DE",
+      "fileName": "Bias_DE_Hotswap.json",
+      "filePath": "Baionlenja/[Baionlenja] Bias DE/Bias_DE_Hotswap.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Baionlenja",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Baionlenja/%5BBaionlenja%5D%20Bias%20DE"
+    },
+    {
+      "brandName": "Baionlenja",
+      "keyboardName": "[Baionlenja] Bias DE",
       "fileName": "Bias_DE_Solder.json",
       "filePath": "Baionlenja/[Baionlenja] Bias DE/Bias_DE_Solder.json",
       "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Baionlenja",
@@ -91,18 +99,26 @@
     {
       "brandName": "Bowl Keyboards",
       "keyboardName": "[Bowl Keyboards] Pangea Full Size",
-      "fileName": "pngh_via_json.json",
-      "filePath": "Bowl Keyboards/[Bowl Keyboards] Pangea Full Size/pngh_via_json.json",
+      "fileName": "Pangea_Hotswap.json",
+      "filePath": "Bowl Keyboards/[Bowl Keyboards] Pangea Full Size/Pangea_Hotswap.json",
       "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards",
       "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards/%5BBowl%20Keyboards%5D%20Pangea%20Full%20Size"
     },
     {
       "brandName": "Bowl Keyboards",
       "keyboardName": "[Bowl Keyboards] Pangea Full Size",
-      "fileName": "pngs_via_json.json",
-      "filePath": "Bowl Keyboards/[Bowl Keyboards] Pangea Full Size/pngs_via_json.json",
+      "fileName": "Pangea_Solder.json",
+      "filePath": "Bowl Keyboards/[Bowl Keyboards] Pangea Full Size/Pangea_Solder.json",
       "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards",
       "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards/%5BBowl%20Keyboards%5D%20Pangea%20Full%20Size"
+    },
+    {
+      "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] Pangea Mini",
+      "fileName": "Pangea_Mini_JSON.json",
+      "filePath": "Bowl Keyboards/[Bowl Keyboards] Pangea Mini/Pangea_Mini_JSON.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards/%5BBowl%20Keyboards%5D%20Pangea%20Mini"
     },
     {
       "brandName": "Caryworks",
@@ -2253,10 +2269,18 @@
         {
           "brandName": "Baionlenja",
           "keyboardName": "[Baionlenja] Bias DE",
-          "fileName": "Bias_DE_Solder.json",
-          "filePath": "Baionlenja/[Baionlenja] Bias DE/Bias_DE_Solder.json",
           "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Baionlenja",
-          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Baionlenja/%5BBaionlenja%5D%20Bias%20DE"
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Baionlenja/%5BBaionlenja%5D%20Bias%20DE",
+          "files": [
+            {
+              "fileName": "Bias_DE_Hotswap.json",
+              "filePath": "Baionlenja/[Baionlenja] Bias DE/Bias_DE_Hotswap.json"
+            },
+            {
+              "fileName": "Bias_DE_Solder.json",
+              "filePath": "Baionlenja/[Baionlenja] Bias DE/Bias_DE_Solder.json"
+            }
+          ]
         },
         {
           "brandName": "Baionlenja",
@@ -2322,14 +2346,22 @@
           "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards/%5BBowl%20Keyboards%5D%20Pangea%20Full%20Size",
           "files": [
             {
-              "fileName": "pngh_via_json.json",
-              "filePath": "Bowl Keyboards/[Bowl Keyboards] Pangea Full Size/pngh_via_json.json"
+              "fileName": "Pangea_Hotswap.json",
+              "filePath": "Bowl Keyboards/[Bowl Keyboards] Pangea Full Size/Pangea_Hotswap.json"
             },
             {
-              "fileName": "pngs_via_json.json",
-              "filePath": "Bowl Keyboards/[Bowl Keyboards] Pangea Full Size/pngs_via_json.json"
+              "fileName": "Pangea_Solder.json",
+              "filePath": "Bowl Keyboards/[Bowl Keyboards] Pangea Full Size/Pangea_Solder.json"
             }
           ]
+        },
+        {
+          "brandName": "Bowl Keyboards",
+          "keyboardName": "[Bowl Keyboards] Pangea Mini",
+          "fileName": "Pangea_Mini_JSON.json",
+          "filePath": "Bowl Keyboards/[Bowl Keyboards] Pangea Mini/Pangea_Mini_JSON.json",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards/%5BBowl%20Keyboards%5D%20Pangea%20Mini"
         }
       ]
     },
@@ -4560,7 +4592,7 @@
       ]
     }
   ],
-  "generatedAt": "2025-11-27T11:16:40.151487Z",
-  "totalViaFiles": 277,
+  "generatedAt": "2025-11-27T11:20:30.092138Z",
+  "totalViaFiles": 279,
   "totalBrands": 41
 }
