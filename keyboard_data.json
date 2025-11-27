@@ -307,6 +307,69 @@
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/BigStar\\[BigStar] Meteor80 R2"
     },
     {
+      "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] Capy60",
+      "fileName": "Capy60_Half_Plate.dxf",
+      "filePath": "Bowl Keyboards\\[Bowl Keyboards] Capy60\\Capy60_Half_Plate.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Capy60/Capy60_Half_Plate.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Capy60"
+    },
+    {
+      "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] Capy60",
+      "fileName": "Capy60_Soft_Plate_File.dxf",
+      "filePath": "Bowl Keyboards\\[Bowl Keyboards] Capy60\\Capy60_Soft_Plate_File.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Capy60/Capy60_Soft_Plate_File.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Capy60"
+    },
+    {
+      "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] Capy60",
+      "fileName": "Capy60_Stiff_Plate_File.dxf",
+      "filePath": "Bowl Keyboards\\[Bowl Keyboards] Capy60\\Capy60_Stiff_Plate_File.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Capy60/Capy60_Stiff_Plate_File.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Capy60"
+    },
+    {
+      "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] OC-62",
+      "fileName": "OC-62_Soft_Plate_File.dxf",
+      "filePath": "Bowl Keyboards\\[Bowl Keyboards] OC-62\\OC-62_Soft_Plate_File.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] OC-62/OC-62_Soft_Plate_File.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] OC-62"
+    },
+    {
+      "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] Pangea Full Size",
+      "fileName": "Pangea_Plate_Fieles.dxf",
+      "filePath": "Bowl Keyboards\\[Bowl Keyboards] Pangea Full Size\\Pangea_Plate_Fieles.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Full Size/Pangea_Plate_Fieles.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Full Size"
+    },
+    {
+      "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] Pangea Mini",
+      "fileName": "Pangea_Mini_Soft_Plate.dxf",
+      "filePath": "Bowl Keyboards\\[Bowl Keyboards] Pangea Mini\\Pangea_Mini_Soft_Plate.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Mini/Pangea_Mini_Soft_Plate.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Mini"
+    },
+    {
+      "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] Pangea Mini",
+      "fileName": "Pangea_Mini_Stiff_Plate.dxf",
+      "filePath": "Bowl Keyboards\\[Bowl Keyboards] Pangea Mini\\Pangea_Mini_Stiff_Plate.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Mini/Pangea_Mini_Stiff_Plate.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Mini"
+    },
+    {
       "brandName": "CannonKeys",
       "keyboardName": "[CannonKeys] Brutal60",
       "fileName": "brutal60_standard.dxf",
@@ -7156,6 +7219,47 @@
       ]
     },
     {
+      "name": "Bowl Keyboards",
+      "keyboards": [
+        {
+          "brandName": "Bowl Keyboards",
+          "keyboardName": "[Bowl Keyboards] Capy60",
+          "fileName": "Capy60_Half_Plate.dxf, Capy60_Soft_Plate_File.dxf, Capy60_Stiff_Plate_File.dxf",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Capy60/Capy60_Half_Plate.png",
+          "filePath": "Bowl Keyboards\\[Bowl Keyboards] Capy60\\Capy60_Half_Plate.dxf",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Capy60"
+        },
+        {
+          "brandName": "Bowl Keyboards",
+          "keyboardName": "[Bowl Keyboards] OC-62",
+          "fileName": "OC-62_Soft_Plate_File.dxf",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] OC-62/OC-62_Soft_Plate_File.png",
+          "filePath": "Bowl Keyboards\\[Bowl Keyboards] OC-62\\OC-62_Soft_Plate_File.dxf",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] OC-62"
+        },
+        {
+          "brandName": "Bowl Keyboards",
+          "keyboardName": "[Bowl Keyboards] Pangea Full Size",
+          "fileName": "Pangea_Plate_Fieles.dxf",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Full Size/Pangea_Plate_Fieles.png",
+          "filePath": "Bowl Keyboards\\[Bowl Keyboards] Pangea Full Size\\Pangea_Plate_Fieles.dxf",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Full Size"
+        },
+        {
+          "brandName": "Bowl Keyboards",
+          "keyboardName": "[Bowl Keyboards] Pangea Mini",
+          "fileName": "Pangea_Mini_Soft_Plate.dxf, Pangea_Mini_Stiff_Plate.dxf",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Mini/Pangea_Mini_Soft_Plate.png",
+          "filePath": "Bowl Keyboards\\[Bowl Keyboards] Pangea Mini\\Pangea_Mini_Soft_Plate.dxf",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Mini"
+        }
+      ]
+    },
+    {
       "name": "CannonKeys",
       "keyboards": [
         {
@@ -10439,7 +10543,7 @@
       ]
     }
   ],
-  "generatedAt": "2025-11-06T13:10:04.214580Z",
-  "totalPlates": 780,
-  "totalBrands": 64
+  "generatedAt": "2025-11-27T11:16:40.020281Z",
+  "totalPlates": 787,
+  "totalBrands": 65
 }
