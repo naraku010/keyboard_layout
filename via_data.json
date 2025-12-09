@@ -98,6 +98,22 @@
     },
     {
       "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] Oblique60",
+      "fileName": "oblique60 hotswap(edit251207dan).json",
+      "filePath": "Bowl Keyboards/[Bowl Keyboards] Oblique60/oblique60 hotswap(edit251207dan).json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards/%5BBowl%20Keyboards%5D%20Oblique60"
+    },
+    {
+      "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] Oblique60",
+      "fileName": "oblique60 solder(edit251207dan).json",
+      "filePath": "Bowl Keyboards/[Bowl Keyboards] Oblique60/oblique60 solder(edit251207dan).json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards/%5BBowl%20Keyboards%5D%20Oblique60"
+    },
+    {
+      "brandName": "Bowl Keyboards",
       "keyboardName": "[Bowl Keyboards] Pangea Full Size",
       "fileName": "Pangea_Hotswap.json",
       "filePath": "Bowl Keyboards/[Bowl Keyboards] Pangea Full Size/Pangea_Hotswap.json",
@@ -247,6 +263,22 @@
       "filePath": "GDK Lab/[GDK Lab] KV1-65/kv1-65_solder.json",
       "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/GDK%20Lab",
       "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/GDK%20Lab/%5BGDK%20Lab%5D%20KV1-65"
+    },
+    {
+      "brandName": "GDK Lab",
+      "keyboardName": "[GDK Lab] NV-70",
+      "fileName": "NV-70.JSON",
+      "filePath": "GDK Lab/[GDK Lab] NV-70/NV-70.JSON",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/GDK%20Lab",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/GDK%20Lab/%5BGDK%20Lab%5D%20NV-70"
+    },
+    {
+      "brandName": "GDK Lab",
+      "keyboardName": "[GDK Lab] NV-70",
+      "fileName": "NV-70_Solder.JSON",
+      "filePath": "GDK Lab/[GDK Lab] NV-70/NV-70_Solder.JSON",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/GDK%20Lab",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/GDK%20Lab/%5BGDK%20Lab%5D%20NV-70"
     },
     {
       "brandName": "Geonworks",
@@ -2341,6 +2373,22 @@
         },
         {
           "brandName": "Bowl Keyboards",
+          "keyboardName": "[Bowl Keyboards] Oblique60",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards/%5BBowl%20Keyboards%5D%20Oblique60",
+          "files": [
+            {
+              "fileName": "oblique60 hotswap(edit251207dan).json",
+              "filePath": "Bowl Keyboards/[Bowl Keyboards] Oblique60/oblique60 hotswap(edit251207dan).json"
+            },
+            {
+              "fileName": "oblique60 solder(edit251207dan).json",
+              "filePath": "Bowl Keyboards/[Bowl Keyboards] Oblique60/oblique60 solder(edit251207dan).json"
+            }
+          ]
+        },
+        {
+          "brandName": "Bowl Keyboards",
           "keyboardName": "[Bowl Keyboards] Pangea Full Size",
           "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards",
           "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Bowl%20Keyboards/%5BBowl%20Keyboards%5D%20Pangea%20Full%20Size",
@@ -2519,6 +2567,22 @@
             {
               "fileName": "kv1-65_solder.json",
               "filePath": "GDK Lab/[GDK Lab] KV1-65/kv1-65_solder.json"
+            }
+          ]
+        },
+        {
+          "brandName": "GDK Lab",
+          "keyboardName": "[GDK Lab] NV-70",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/GDK%20Lab",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/GDK%20Lab/%5BGDK%20Lab%5D%20NV-70",
+          "files": [
+            {
+              "fileName": "NV-70.JSON",
+              "filePath": "GDK Lab/[GDK Lab] NV-70/NV-70.JSON"
+            },
+            {
+              "fileName": "NV-70_Solder.JSON",
+              "filePath": "GDK Lab/[GDK Lab] NV-70/NV-70_Solder.JSON"
             }
           ]
         }
@@ -4592,7 +4656,7 @@
       ]
     }
   ],
-  "generatedAt": "2025-11-27T11:20:30.092138Z",
-  "totalViaFiles": 279,
+  "generatedAt": "2025-12-09T14:23:08.789893Z",
+  "totalViaFiles": 283,
   "totalBrands": 41
 }
