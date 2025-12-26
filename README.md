@@ -4,22 +4,29 @@
 ## ℹ️ 참고
 > 공제 키보드에 호환되는 기판(PCB) 리스트 정리 (In Progress...)
 > https://kbdlab.co.kr/index.php?mid=board_etc&document_srl=6638372
+>
+## 🛜 키보드 정보 모음
+> ### https://keyhub.info
+> 
 ## 🛜 GMK-KEYCAP-FINDER
 > GMK 키캡 찾기
-> ### https://gmk-keycap-finder.vercel.app/
+> ### https://gmk.keyhub.info
 > 
 > <img width="1524" height="836" alt="image" src="https://github.com/user-attachments/assets/bc43ccba-2e43-4cb9-8823-c8994b2105bc" />
 ## 🛜 기키갤 시뮬레이터
-> ### https://mkg-sim.vercel.app/
+> ### https://sim.keyhub.info
 >
 > ![image](https://github.com/user-attachments/assets/2a3f08b6-8841-463a-88ba-cbe37a2099b0)
 ## 🛜 키보드 보강판 자료실
-> ### https://keyboard-plate.vercel.app/
+> ### https://plate.keyhub.info
 >
 > <img width="1603" height="867" alt="image" src="https://github.com/user-attachments/assets/90d2aafb-48cc-42ee-b9ea-d06a4239820a" />
 # 🎹 Keyboard Layout Collection
 
 키보드 레이아웃과 플레이트 도면을 체계적으로 정리한 저장소입니다.
+
+# 커피사주기
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=naraku010&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/naraku010)
 
 ## 📁 프로젝트 구조
 

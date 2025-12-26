@@ -109,6 +109,33 @@
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Archon\\[Archon] Fx2(GX)"
     },
     {
+      "brandName": "Atelier Haven",
+      "keyboardName": "[Atelier Haven] Haven 60",
+      "fileName": "haven60.dwg",
+      "filePath": "Atelier Haven\\[Atelier Haven] Haven 60\\haven60.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Atelier Haven\\[Atelier Haven] Haven 60/haven60.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Atelier Haven",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Atelier Haven\\[Atelier Haven] Haven 60"
+    },
+    {
+      "brandName": "Atelier Haven",
+      "keyboardName": "[Atelier Haven] Haven 60",
+      "fileName": "haven60_5핀슷바뻥.dwg",
+      "filePath": "Atelier Haven\\[Atelier Haven] Haven 60\\haven60_5핀슷바뻥.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Atelier Haven\\[Atelier Haven] Haven 60/haven60_5핀슷바뻥.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Atelier Haven",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Atelier Haven\\[Atelier Haven] Haven 60"
+    },
+    {
+      "brandName": "Atelier Haven",
+      "keyboardName": "[Atelier Haven] Haven 60",
+      "fileName": "haven60_슷바뻥.dwg",
+      "filePath": "Atelier Haven\\[Atelier Haven] Haven 60\\haven60_슷바뻥.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Atelier Haven\\[Atelier Haven] Haven 60/haven60_슷바뻥.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Atelier Haven",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Atelier Haven\\[Atelier Haven] Haven 60"
+    },
+    {
       "brandName": "Baionlenja",
       "keyboardName": "[Baionlenja] Bias DE",
       "fileName": "BIAS_DE_PLATEFILE_1774045101.dxf",
@@ -278,6 +305,69 @@
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/BigStar\\[BigStar] Meteor80 R2/Meteor80 R2.png",
       "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/BigStar",
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/BigStar\\[BigStar] Meteor80 R2"
+    },
+    {
+      "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] Capy60",
+      "fileName": "Capy60_Half_Plate.dxf",
+      "filePath": "Bowl Keyboards\\[Bowl Keyboards] Capy60\\Capy60_Half_Plate.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Capy60/Capy60_Half_Plate.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Capy60"
+    },
+    {
+      "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] Capy60",
+      "fileName": "Capy60_Soft_Plate_File.dxf",
+      "filePath": "Bowl Keyboards\\[Bowl Keyboards] Capy60\\Capy60_Soft_Plate_File.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Capy60/Capy60_Soft_Plate_File.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Capy60"
+    },
+    {
+      "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] Capy60",
+      "fileName": "Capy60_Stiff_Plate_File.dxf",
+      "filePath": "Bowl Keyboards\\[Bowl Keyboards] Capy60\\Capy60_Stiff_Plate_File.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Capy60/Capy60_Stiff_Plate_File.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Capy60"
+    },
+    {
+      "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] OC-62",
+      "fileName": "OC-62_Soft_Plate_File.dxf",
+      "filePath": "Bowl Keyboards\\[Bowl Keyboards] OC-62\\OC-62_Soft_Plate_File.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] OC-62/OC-62_Soft_Plate_File.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] OC-62"
+    },
+    {
+      "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] Pangea Full Size",
+      "fileName": "Pangea_Plate_Fieles.dxf",
+      "filePath": "Bowl Keyboards\\[Bowl Keyboards] Pangea Full Size\\Pangea_Plate_Fieles.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Full Size/Pangea_Plate_Fieles.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Full Size"
+    },
+    {
+      "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] Pangea Mini",
+      "fileName": "Pangea_Mini_Soft_Plate.dxf",
+      "filePath": "Bowl Keyboards\\[Bowl Keyboards] Pangea Mini\\Pangea_Mini_Soft_Plate.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Mini/Pangea_Mini_Soft_Plate.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Mini"
+    },
+    {
+      "brandName": "Bowl Keyboards",
+      "keyboardName": "[Bowl Keyboards] Pangea Mini",
+      "fileName": "Pangea_Mini_Stiff_Plate.dxf",
+      "filePath": "Bowl Keyboards\\[Bowl Keyboards] Pangea Mini\\Pangea_Mini_Stiff_Plate.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Mini/Pangea_Mini_Stiff_Plate.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Mini"
     },
     {
       "brandName": "CannonKeys",
@@ -602,6 +692,24 @@
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/COX\\[COX] Blackpearl/Blackperal_sheet.png",
       "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/COX",
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/COX\\[COX] Blackpearl"
+    },
+    {
+      "brandName": "COX",
+      "keyboardName": "[COX] Ca106(콕어고)",
+      "fileName": "Ca106(콕어고)_pcb_mount.dwg",
+      "filePath": "COX\\[COX] Ca106(콕어고)\\Ca106(콕어고)_pcb_mount.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/COX\\[COX] Ca106(콕어고)/Ca106(콕어고)_pcb_mount.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/COX",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/COX\\[COX] Ca106(콕어고)"
+    },
+    {
+      "brandName": "COX",
+      "keyboardName": "[COX] Ca106(콕어고)",
+      "fileName": "Ca106(콕어고)_plate_mount.dwg",
+      "filePath": "COX\\[COX] Ca106(콕어고)\\Ca106(콕어고)_plate_mount.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/COX\\[COX] Ca106(콕어고)/Ca106(콕어고)_plate_mount.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/COX",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/COX\\[COX] Ca106(콕어고)"
     },
     {
       "brandName": "CubStudio",
@@ -1556,6 +1664,15 @@
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/GRIT\\[GRIT] Dune65/Dune65_half plate.png",
       "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/GRIT",
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/GRIT\\[GRIT] Dune65"
+    },
+    {
+      "brandName": "GRIT",
+      "keyboardName": "[GRIT] Wraith60",
+      "fileName": "Wraith60-Plate.dwg",
+      "filePath": "GRIT\\[GRIT] Wraith60\\Wraith60-Plate.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/GRIT\\[GRIT] Wraith60/Wraith60-Plate.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/GRIT",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/GRIT\\[GRIT] Wraith60"
     },
     {
       "brandName": "Hand Engineering",
@@ -3756,6 +3873,24 @@
     {
       "brandName": "Keycult",
       "keyboardName": "[Keycult] No.2 65",
+      "fileName": "No265-Plate-NoLeaf-Snhole.dxf",
+      "filePath": "Keycult\\[Keycult] No.2 65\\No265-Plate-NoLeaf-Snhole.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Keycult\\[Keycult] No.2 65/No265-Plate-NoLeaf-Snhole.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Keycult",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Keycult\\[Keycult] No.2 65"
+    },
+    {
+      "brandName": "Keycult",
+      "keyboardName": "[Keycult] No.2 65",
+      "fileName": "No265-Plate-NoLeaf-Sphole.dxf",
+      "filePath": "Keycult\\[Keycult] No.2 65\\No265-Plate-NoLeaf-Sphole.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Keycult\\[Keycult] No.2 65/No265-Plate-NoLeaf-Sphole.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Keycult",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Keycult\\[Keycult] No.2 65"
+    },
+    {
+      "brandName": "Keycult",
+      "keyboardName": "[Keycult] No.2 65",
       "fileName": "No265-Plate-NoLeaf.dxf",
       "filePath": "Keycult\\[Keycult] No.2 65\\No265-Plate-NoLeaf.dxf",
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Keycult\\[Keycult] No.2 65/No265-Plate-NoLeaf.png",
@@ -4233,9 +4368,27 @@
     {
       "brandName": "Linworks",
       "keyboardName": "[Linworks] Montage",
+      "fileName": "Montage_FRANKENSTEIN.dwg",
+      "filePath": "Linworks\\[Linworks] Montage\\Montage_FRANKENSTEIN.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Linworks\\[Linworks] Montage/Montage_FRANKENSTEIN.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Linworks",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Linworks\\[Linworks] Montage"
+    },
+    {
+      "brandName": "Linworks",
+      "keyboardName": "[Linworks] Montage",
       "fileName": "Montage_island_plate.dwg",
       "filePath": "Linworks\\[Linworks] Montage\\Montage_island_plate.dwg",
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Linworks\\[Linworks] Montage/Montage_island_plate.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Linworks",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Linworks\\[Linworks] Montage"
+    },
+    {
+      "brandName": "Linworks",
+      "keyboardName": "[Linworks] Montage",
+      "fileName": "Montage_Meow_plate.dwg",
+      "filePath": "Linworks\\[Linworks] Montage\\Montage_Meow_plate.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Linworks\\[Linworks] Montage/Montage_Meow_plate.png",
       "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Linworks",
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Linworks\\[Linworks] Montage"
     },
@@ -5843,6 +5996,15 @@
     },
     {
       "brandName": "Qwertykeys",
+      "keyboardName": "[Qwertykeys] QK Alice Duo",
+      "fileName": "QK ALICE DUO - plate file.dwg",
+      "filePath": "Qwertykeys\\[Qwertykeys] QK Alice Duo\\QK ALICE DUO - plate file.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Qwertykeys\\[Qwertykeys] QK Alice Duo/QK ALICE DUO - plate file.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys\\[Qwertykeys] QK Alice Duo"
+    },
+    {
+      "brandName": "Qwertykeys",
       "keyboardName": "[Qwertykeys] QK100",
       "fileName": "100_PC&POM.dwg",
       "filePath": "Qwertykeys\\[Qwertykeys] QK100\\100_PC&POM.dwg",
@@ -6979,6 +7141,20 @@
       ]
     },
     {
+      "name": "Atelier Haven",
+      "keyboards": [
+        {
+          "brandName": "Atelier Haven",
+          "keyboardName": "[Atelier Haven] Haven 60",
+          "fileName": "haven60.dwg, haven60_5핀슷바뻥.dwg, haven60_슷바뻥.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Atelier Haven\\[Atelier Haven] Haven 60/haven60.png",
+          "filePath": "Atelier Haven\\[Atelier Haven] Haven 60\\haven60.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Atelier Haven",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Atelier Haven\\[Atelier Haven] Haven 60"
+        }
+      ]
+    },
+    {
       "name": "Baionlenja",
       "keyboards": [
         {
@@ -7039,6 +7215,47 @@
           "filePath": "BigStar\\[BigStar] Meteor80 R2\\Meteor80 R2.dxf",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/BigStar",
           "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/BigStar\\[BigStar] Meteor80 R2"
+        }
+      ]
+    },
+    {
+      "name": "Bowl Keyboards",
+      "keyboards": [
+        {
+          "brandName": "Bowl Keyboards",
+          "keyboardName": "[Bowl Keyboards] Capy60",
+          "fileName": "Capy60_Half_Plate.dxf, Capy60_Soft_Plate_File.dxf, Capy60_Stiff_Plate_File.dxf",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Capy60/Capy60_Half_Plate.png",
+          "filePath": "Bowl Keyboards\\[Bowl Keyboards] Capy60\\Capy60_Half_Plate.dxf",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Capy60"
+        },
+        {
+          "brandName": "Bowl Keyboards",
+          "keyboardName": "[Bowl Keyboards] OC-62",
+          "fileName": "OC-62_Soft_Plate_File.dxf",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] OC-62/OC-62_Soft_Plate_File.png",
+          "filePath": "Bowl Keyboards\\[Bowl Keyboards] OC-62\\OC-62_Soft_Plate_File.dxf",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] OC-62"
+        },
+        {
+          "brandName": "Bowl Keyboards",
+          "keyboardName": "[Bowl Keyboards] Pangea Full Size",
+          "fileName": "Pangea_Plate_Fieles.dxf",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Full Size/Pangea_Plate_Fieles.png",
+          "filePath": "Bowl Keyboards\\[Bowl Keyboards] Pangea Full Size\\Pangea_Plate_Fieles.dxf",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Full Size"
+        },
+        {
+          "brandName": "Bowl Keyboards",
+          "keyboardName": "[Bowl Keyboards] Pangea Mini",
+          "fileName": "Pangea_Mini_Soft_Plate.dxf, Pangea_Mini_Stiff_Plate.dxf",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Mini/Pangea_Mini_Soft_Plate.png",
+          "filePath": "Bowl Keyboards\\[Bowl Keyboards] Pangea Mini\\Pangea_Mini_Soft_Plate.dxf",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Bowl Keyboards\\[Bowl Keyboards] Pangea Mini"
         }
       ]
     },
@@ -7185,6 +7402,15 @@
           "filePath": "COX\\[COX] Blackpearl\\Blackpearl_plate.dwg",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/COX",
           "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/COX\\[COX] Blackpearl"
+        },
+        {
+          "brandName": "COX",
+          "keyboardName": "[COX] Ca106(콕어고)",
+          "fileName": "Ca106(콕어고)_pcb_mount.dwg, Ca106(콕어고)_plate_mount.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/COX\\[COX] Ca106(콕어고)/Ca106(콕어고)_pcb_mount.png",
+          "filePath": "COX\\[COX] Ca106(콕어고)\\Ca106(콕어고)_pcb_mount.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/COX",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/COX\\[COX] Ca106(콕어고)"
         }
       ]
     },
@@ -7608,6 +7834,15 @@
           "filePath": "GRIT\\[GRIT] Dune65\\Dune65_full plate.dwg",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/GRIT",
           "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/GRIT\\[GRIT] Dune65"
+        },
+        {
+          "brandName": "GRIT",
+          "keyboardName": "[GRIT] Wraith60",
+          "fileName": "Wraith60-Plate.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/GRIT\\[GRIT] Wraith60/Wraith60-Plate.png",
+          "filePath": "GRIT\\[GRIT] Wraith60\\Wraith60-Plate.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/GRIT",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/GRIT\\[GRIT] Wraith60"
         }
       ]
     },
@@ -8750,7 +8985,7 @@
         {
           "brandName": "Keycult",
           "keyboardName": "[Keycult] No.2 65",
-          "fileName": "No265-Plate-Leaf.dxf, No265-Plate-Leaf_슷바뻥.dxf, No265-Plate-Leaf_키팸수정.dxf, No265-Plate-Leaf_슷바뻥.dxf, No265-Plate-Leaf_키팸수정.dxf, No265-Plate-NoLeaf-Partial.dxf, No265-Plate-NoLeaf.dxf",
+          "fileName": "No265-Plate-Leaf.dxf, No265-Plate-Leaf_슷바뻥.dxf, No265-Plate-Leaf_키팸수정.dxf, No265-Plate-Leaf_슷바뻥.dxf, No265-Plate-Leaf_키팸수정.dxf, No265-Plate-NoLeaf-Partial.dxf, No265-Plate-NoLeaf-Snhole.dxf, No265-Plate-NoLeaf-Sphole.dxf, No265-Plate-NoLeaf.dxf",
           "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Keycult\\[Keycult] No.2 65/No265-Plate-Leaf.png",
           "filePath": "Keycult\\[Keycult] No.2 65\\No265-Plate-Leaf.dxf",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Keycult",
@@ -9010,7 +9245,7 @@
         {
           "brandName": "Linworks",
           "keyboardName": "[Linworks] Montage",
-          "fileName": "Montage_acoustic_hole(logo).dwg, Montage_island_plate.dwg, Montage_plate.dwg, Montage_plate_2type_mount.dwg, Montage_plate_acoustic_sbar.dwg",
+          "fileName": "Montage_acoustic_hole(logo).dwg, Montage_FRANKENSTEIN.dwg, Montage_island_plate.dwg, Montage_Meow_plate.dwg, Montage_plate.dwg, Montage_plate_2type_mount.dwg, Montage_plate_acoustic_sbar.dwg",
           "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Linworks\\[Linworks] Montage/Montage_acoustic_hole(logo).png",
           "filePath": "Linworks\\[Linworks] Montage\\Montage_acoustic_hole(logo).dwg",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Linworks",
@@ -9828,6 +10063,15 @@
         },
         {
           "brandName": "Qwertykeys",
+          "keyboardName": "[Qwertykeys] QK Alice Duo",
+          "fileName": "QK ALICE DUO - plate file.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Qwertykeys\\[Qwertykeys] QK Alice Duo/QK ALICE DUO - plate file.png",
+          "filePath": "Qwertykeys\\[Qwertykeys] QK Alice Duo\\QK ALICE DUO - plate file.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys\\[Qwertykeys] QK Alice Duo"
+        },
+        {
+          "brandName": "Qwertykeys",
           "keyboardName": "[Qwertykeys] QK100",
           "fileName": "100_PC&POM.dwg",
           "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Qwertykeys\\[Qwertykeys] QK100/100_PC&POM.png",
@@ -10299,7 +10543,7 @@
       ]
     }
   ],
-  "generatedAt": "2025-08-21T11:18:47.396385Z",
-  "totalPlates": 769,
-  "totalBrands": 63
+  "generatedAt": "2025-12-09T14:23:08.631989Z",
+  "totalPlates": 787,
+  "totalBrands": 65
 }
