@@ -5213,6 +5213,69 @@
     },
     {
       "brandName": "MM Studio",
+      "keyboardName": "[MM Studio] Class 0413",
+      "fileName": "0413-EC.dwg",
+      "filePath": "MM Studio\\[MM Studio] Class 0413\\0413-EC.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/MM Studio\\[MM Studio] Class 0413/0413-EC.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio\\[MM Studio] Class 0413"
+    },
+    {
+      "brandName": "MM Studio",
+      "keyboardName": "[MM Studio] Class 0413",
+      "fileName": "0413-southpaw.dwg",
+      "filePath": "MM Studio\\[MM Studio] Class 0413\\0413-southpaw.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/MM Studio\\[MM Studio] Class 0413/0413-southpaw.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio\\[MM Studio] Class 0413"
+    },
+    {
+      "brandName": "MM Studio",
+      "keyboardName": "[MM Studio] Class 0413",
+      "fileName": "0413-standard.dwg",
+      "filePath": "MM Studio\\[MM Studio] Class 0413\\0413-standard.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/MM Studio\\[MM Studio] Class 0413/0413-standard.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio\\[MM Studio] Class 0413"
+    },
+    {
+      "brandName": "MM Studio",
+      "keyboardName": "[MM Studio] Class 1800",
+      "fileName": "1800 Metal Plate（2024-11-8）.dwg",
+      "filePath": "MM Studio\\[MM Studio] Class 1800\\1800 Metal Plate（2024-11-8）.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/MM Studio\\[MM Studio] Class 1800/1800 Metal Plate（2024-11-8）.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio\\[MM Studio] Class 1800"
+    },
+    {
+      "brandName": "MM Studio",
+      "keyboardName": "[MM Studio] Class 1800",
+      "fileName": "1800 PC or PP plate（2024-11-8）.dwg",
+      "filePath": "MM Studio\\[MM Studio] Class 1800\\1800 PC or PP plate（2024-11-8）.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/MM Studio\\[MM Studio] Class 1800/1800 PC or PP plate（2024-11-8）.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio\\[MM Studio] Class 1800"
+    },
+    {
+      "brandName": "MM Studio",
+      "keyboardName": "[MM Studio] Class 65",
+      "fileName": "CLASS 65 Metal Plate.dwg",
+      "filePath": "MM Studio\\[MM Studio] Class 65\\CLASS 65 Metal Plate.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/MM Studio\\[MM Studio] Class 65/CLASS 65 Metal Plate.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio\\[MM Studio] Class 65"
+    },
+    {
+      "brandName": "MM Studio",
+      "keyboardName": "[MM Studio] Class 65",
+      "fileName": "CLASS 65 PP Plate.dwg",
+      "filePath": "MM Studio\\[MM Studio] Class 65\\CLASS 65 PP Plate.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/MM Studio\\[MM Studio] Class 65/CLASS 65 PP Plate.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio\\[MM Studio] Class 65"
+    },
+    {
+      "brandName": "MM Studio",
       "keyboardName": "[MM Studio] Class60",
       "fileName": "CLASS 60 Plate.dwg",
       "filePath": "MM Studio\\[MM Studio] Class60\\CLASS 60 Plate.dwg",
@@ -6185,6 +6248,15 @@
     },
     {
       "brandName": "Qwertykeys",
+      "keyboardName": "[Qwertykeys] Neo65 Core Plus",
+      "fileName": "Neo65core_plus.dxf",
+      "filePath": "Qwertykeys\\[Qwertykeys] Neo65 Core Plus\\Neo65core_plus.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Qwertykeys\\[Qwertykeys] Neo65 Core Plus/Neo65core_plus.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys\\[Qwertykeys] Neo65 Core Plus"
+    },
+    {
+      "brandName": "Qwertykeys",
       "keyboardName": "[Qwertykeys] Neo65 cu",
       "fileName": "Neo65 Cu.dwg",
       "filePath": "Qwertykeys\\[Qwertykeys] Neo65 cu\\Neo65 Cu.dwg",
@@ -6227,6 +6299,15 @@
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Qwertykeys\\[Qwertykeys] Neo80/neo80.png",
       "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys",
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys\\[Qwertykeys] Neo80"
+    },
+    {
+      "brandName": "Qwertykeys",
+      "keyboardName": "[Qwertykeys] Neo80CU",
+      "fileName": "Neo80Cu.dwg",
+      "filePath": "Qwertykeys\\[Qwertykeys] Neo80CU\\Neo80Cu.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Qwertykeys\\[Qwertykeys] Neo80CU/Neo80Cu.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys\\[Qwertykeys] Neo80CU"
     },
     {
       "brandName": "Qwertykeys",
@@ -7091,6 +7172,15 @@
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TKD\\[TKD] Cycle8/Cycle8_PC_edit.png",
       "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TKD",
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TKD\\[TKD] Cycle8"
+    },
+    {
+      "brandName": "TKD",
+      "keyboardName": "[TKD] Pt.1 75",
+      "fileName": "pt75.dwg",
+      "filePath": "TKD\\[TKD] Pt.1 75\\pt75.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TKD\\[TKD] Pt.1 75/pt75.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TKD",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TKD\\[TKD] Pt.1 75"
     },
     {
       "brandName": "Vertex",
@@ -9954,6 +10044,33 @@
       "keyboards": [
         {
           "brandName": "MM Studio",
+          "keyboardName": "[MM Studio] Class 0413",
+          "fileName": "0413-EC.dwg, 0413-southpaw.dwg, 0413-standard.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/MM Studio\\[MM Studio] Class 0413/0413-EC.png",
+          "filePath": "MM Studio\\[MM Studio] Class 0413\\0413-EC.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio\\[MM Studio] Class 0413"
+        },
+        {
+          "brandName": "MM Studio",
+          "keyboardName": "[MM Studio] Class 1800",
+          "fileName": "1800 Metal Plate（2024-11-8）.dwg, 1800 PC or PP plate（2024-11-8）.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/MM Studio\\[MM Studio] Class 1800/1800 Metal Plate（2024-11-8）.png",
+          "filePath": "MM Studio\\[MM Studio] Class 1800\\1800 Metal Plate（2024-11-8）.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio\\[MM Studio] Class 1800"
+        },
+        {
+          "brandName": "MM Studio",
+          "keyboardName": "[MM Studio] Class 65",
+          "fileName": "CLASS 65 Metal Plate.dwg, CLASS 65 PP Plate.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/MM Studio\\[MM Studio] Class 65/CLASS 65 Metal Plate.png",
+          "filePath": "MM Studio\\[MM Studio] Class 65\\CLASS 65 Metal Plate.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/MM Studio\\[MM Studio] Class 65"
+        },
+        {
+          "brandName": "MM Studio",
           "keyboardName": "[MM Studio] Class60",
           "fileName": "CLASS 60 Plate.dwg, Class60 Split BS .dwg",
           "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/MM Studio\\[MM Studio] Class60/CLASS 60 Plate.png",
@@ -10415,6 +10532,15 @@
         },
         {
           "brandName": "Qwertykeys",
+          "keyboardName": "[Qwertykeys] Neo65 Core Plus",
+          "fileName": "Neo65core_plus.dxf",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Qwertykeys\\[Qwertykeys] Neo65 Core Plus/Neo65core_plus.png",
+          "filePath": "Qwertykeys\\[Qwertykeys] Neo65 Core Plus\\Neo65core_plus.dxf",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys\\[Qwertykeys] Neo65 Core Plus"
+        },
+        {
+          "brandName": "Qwertykeys",
           "keyboardName": "[Qwertykeys] Neo65 cu",
           "fileName": "Neo65 Cu.dwg",
           "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Qwertykeys\\[Qwertykeys] Neo65 cu/Neo65 Cu.png",
@@ -10448,6 +10574,15 @@
           "filePath": "Qwertykeys\\[Qwertykeys] Neo80\\neo80.dwg",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys",
           "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys\\[Qwertykeys] Neo80"
+        },
+        {
+          "brandName": "Qwertykeys",
+          "keyboardName": "[Qwertykeys] Neo80CU",
+          "fileName": "Neo80Cu.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Qwertykeys\\[Qwertykeys] Neo80CU/Neo80Cu.png",
+          "filePath": "Qwertykeys\\[Qwertykeys] Neo80CU\\Neo80Cu.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys\\[Qwertykeys] Neo80CU"
         },
         {
           "brandName": "Qwertykeys",
@@ -10853,6 +10988,15 @@
           "filePath": "TKD\\[TKD] Cycle8\\Cycle8 metal only.dwg",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TKD",
           "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TKD\\[TKD] Cycle8"
+        },
+        {
+          "brandName": "TKD",
+          "keyboardName": "[TKD] Pt.1 75",
+          "fileName": "pt75.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/TKD\\[TKD] Pt.1 75/pt75.png",
+          "filePath": "TKD\\[TKD] Pt.1 75\\pt75.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TKD",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/TKD\\[TKD] Pt.1 75"
         }
       ]
     },
@@ -10959,7 +11103,7 @@
       ]
     }
   ],
-  "generatedAt": "2026-01-13T15:26:07.164190Z",
-  "totalPlates": 817,
+  "generatedAt": "2026-02-10T17:23:52.620412Z",
+  "totalPlates": 827,
   "totalBrands": 69
 }
