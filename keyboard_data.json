@@ -1488,6 +1488,33 @@
     {
       "brandName": "Geonworks",
       "keyboardName": "[Geonworks] Frog TKL",
+      "fileName": "frog_cipulot_86u_6u.dxf",
+      "filePath": "Geonworks\\[Geonworks] Frog TKL\\frog_cipulot_86u_6u.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Geonworks\\[Geonworks] Frog TKL/frog_cipulot_86u_6u.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Geonworks",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Geonworks\\[Geonworks] Frog TKL"
+    },
+    {
+      "brandName": "Geonworks",
+      "keyboardName": "[Geonworks] Frog TKL",
+      "fileName": "frog_cipulot_86u_7u.dxf",
+      "filePath": "Geonworks\\[Geonworks] Frog TKL\\frog_cipulot_86u_7u.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Geonworks\\[Geonworks] Frog TKL/frog_cipulot_86u_7u.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Geonworks",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Geonworks\\[Geonworks] Frog TKL"
+    },
+    {
+      "brandName": "Geonworks",
+      "keyboardName": "[Geonworks] Frog TKL",
+      "fileName": "frog_cipulot_87u.dxf",
+      "filePath": "Geonworks\\[Geonworks] Frog TKL\\frog_cipulot_87u.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Geonworks\\[Geonworks] Frog TKL/frog_cipulot_87u.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Geonworks",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Geonworks\\[Geonworks] Frog TKL"
+    },
+    {
+      "brandName": "Geonworks",
+      "keyboardName": "[Geonworks] Frog TKL",
       "fileName": "Frog_TKL_Full_Plate_1.5mm.dxf",
       "filePath": "Geonworks\\[Geonworks] Frog TKL\\Frog_TKL_Full_Plate_1.5mm.dxf",
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Geonworks\\[Geonworks] Frog TKL/Frog_TKL_Full_Plate_1.5mm.png",
@@ -7041,6 +7068,24 @@
     {
       "brandName": "Swagkey",
       "keyboardName": "[Swagkey] Transition Light",
+      "fileName": "tranlite_dynacap.dxf",
+      "filePath": "Swagkey\\[Swagkey] Transition Light\\tranlite_dynacap.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Swagkey\\[Swagkey] Transition Light/tranlite_dynacap.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Swagkey",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Swagkey\\[Swagkey] Transition Light"
+    },
+    {
+      "brandName": "Swagkey",
+      "keyboardName": "[Swagkey] Transition Light",
+      "fileName": "tranlite_dynacap_techa.dxf",
+      "filePath": "Swagkey\\[Swagkey] Transition Light\\tranlite_dynacap_techa.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Swagkey\\[Swagkey] Transition Light/tranlite_dynacap_techa.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Swagkey",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Swagkey\\[Swagkey] Transition Light"
+    },
+    {
+      "brandName": "Swagkey",
+      "keyboardName": "[Swagkey] Transition Light",
       "fileName": "transition_lite_plate_file.dwg",
       "filePath": "Swagkey\\[Swagkey] Transition Light\\transition_lite_plate_file.dwg",
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Swagkey\\[Swagkey] Transition Light/transition_lite_plate_file.png",
@@ -8309,9 +8354,9 @@
         {
           "brandName": "Geonworks",
           "keyboardName": "[Geonworks] Frog TKL",
-          "fileName": "Frog_TKL_Full_Plate_1.5mm.dxf, Frog_TKL_Half_Plate_1.5mm.dxf",
-          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Geonworks\\[Geonworks] Frog TKL/Frog_TKL_Full_Plate_1.5mm.png",
-          "filePath": "Geonworks\\[Geonworks] Frog TKL\\Frog_TKL_Full_Plate_1.5mm.dxf",
+          "fileName": "frog_cipulot_86u_6u.dxf, frog_cipulot_86u_7u.dxf, frog_cipulot_87u.dxf, Frog_TKL_Full_Plate_1.5mm.dxf, Frog_TKL_Half_Plate_1.5mm.dxf",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Geonworks\\[Geonworks] Frog TKL/frog_cipulot_86u_6u.png",
+          "filePath": "Geonworks\\[Geonworks] Frog TKL\\frog_cipulot_86u_6u.dxf",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Geonworks",
           "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Geonworks\\[Geonworks] Frog TKL"
         },
@@ -11194,7 +11239,7 @@
         {
           "brandName": "Swagkey",
           "keyboardName": "[Swagkey] Transition Light",
-          "fileName": "ec tran lite plate.dwg, transition_lite_plate_file.dwg, transition_lite_venom (fix).dwg, 트랜지션 라이트 보강판.dwg",
+          "fileName": "ec tran lite plate.dwg, tranlite_dynacap.dxf, tranlite_dynacap_techa.dxf, transition_lite_plate_file.dwg, transition_lite_venom (fix).dwg, 트랜지션 라이트 보강판.dwg",
           "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Swagkey\\[Swagkey] Transition Light/ec tran lite plate.png",
           "filePath": "Swagkey\\[Swagkey] Transition Light\\ec tran lite plate.dwg",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Swagkey",
@@ -11460,7 +11505,7 @@
       ]
     }
   ],
-  "generatedAt": "2026-04-23T16:47:54.993502Z",
-  "totalPlates": 857,
+  "generatedAt": "2026-04-25T14:22:22.662900Z",
+  "totalPlates": 862,
   "totalBrands": 72
 }
