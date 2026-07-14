@@ -1,6 +1,22 @@
 {
   "viaFiles": [
     {
+      "brandName": "Alexotos",
+      "keyboardName": "[Alexotos] Manta65",
+      "fileName": "manta65_hotswap.json",
+      "filePath": "Alexotos/[Alexotos] Manta65/manta65_hotswap.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Alexotos",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Alexotos/%5BAlexotos%5D%20Manta65"
+    },
+    {
+      "brandName": "Alexotos",
+      "keyboardName": "[Alexotos] Manta65",
+      "fileName": "manta65_solder.json",
+      "filePath": "Alexotos/[Alexotos] Manta65/manta65_solder.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Alexotos",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Alexotos/%5BAlexotos%5D%20Manta65"
+    },
+    {
       "brandName": "Atelier Haven",
       "keyboardName": "[Atelier Haven] Haven 60",
       "fileName": "haven60-2.json",
@@ -481,6 +497,54 @@
       "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Kalam/%5BKalam%5D%20Kohaku"
     },
     {
+      "brandName": "KBDFans",
+      "keyboardName": "[KBDFans] Agar",
+      "fileName": "ydkb_kbdfans_agar_via.json",
+      "filePath": "KBDFans/[KBDFans] Agar/MX Hotswap/ydkb_kbdfans_agar_via.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans/%5BKBDFans%5D%20Agar/MX%20Hotswap"
+    },
+    {
+      "brandName": "KBDFans",
+      "keyboardName": "[KBDFans] Agar",
+      "fileName": "ydkb_kbdfans_agar_via.json",
+      "filePath": "KBDFans/[KBDFans] Agar/MX solder/ydkb_kbdfans_agar_via.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans/%5BKBDFans%5D%20Agar/MX%20solder"
+    },
+    {
+      "brandName": "KBDFans",
+      "keyboardName": "[KBDFans] Athena 1800",
+      "fileName": "ydkb_kbdfans_athena1800_via_v3_250822.json",
+      "filePath": "KBDFans/[KBDFans] Athena 1800/ydkb_kbdfans_athena1800_via_v3_250822.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans/%5BKBDFans%5D%20Athena%201800"
+    },
+    {
+      "brandName": "KBDFans",
+      "keyboardName": "[KBDFans] Boomerang",
+      "fileName": "ydkb_kbdfans_boomerang_via.json",
+      "filePath": "KBDFans/[KBDFans] Boomerang/ydkb_kbdfans_boomerang_via.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans/%5BKBDFans%5D%20Boomerang"
+    },
+    {
+      "brandName": "KBDFans",
+      "keyboardName": "[KBDFans] Eden R2",
+      "fileName": "ydkb_kbdfans_eden_v2_via.json",
+      "filePath": "KBDFans/[KBDFans] Eden R2/ydkb_kbdfans_eden_v2_via.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans/%5BKBDFans%5D%20Eden%20R2"
+    },
+    {
+      "brandName": "KBDFans",
+      "keyboardName": "[KBDFans] Tofix 8K",
+      "fileName": "kbd87.json",
+      "filePath": "KBDFans/[KBDFans] Tofix 8K/kbd87.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans/%5BKBDFans%5D%20Tofix%208K"
+    },
+    {
       "brandName": "Kibou",
       "keyboardName": "[Kibou] Fukuro R1",
       "fileName": "fukuroapm.json",
@@ -713,6 +777,14 @@
       "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Machina/%5BMachina%5D%20Orbit"
     },
     {
+      "brandName": "Machina",
+      "keyboardName": "[Machina] Tiga",
+      "fileName": "info-via-tiga.json",
+      "filePath": "Machina/[Machina] Tiga/info-via-tiga.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Machina",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Machina/%5BMachina%5D%20Tiga"
+    },
+    {
       "brandName": "Mage",
       "keyboardName": "[Mage] LoveLetter75",
       "fileName": "qingshu75.json",
@@ -841,6 +913,14 @@
       "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Meletrix/%5BMeletrix%5D%20ZoomPad"
     },
     {
+      "brandName": "MM Studio",
+      "keyboardName": "[MM Studio] Class 65 v2",
+      "fileName": "class65-via.json",
+      "filePath": "MM Studio/[MM Studio] Class 65 v2/class65-via.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/MM%20Studio",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/MM%20Studio/%5BMM%20Studio%5D%20Class%2065%20v2"
+    },
+    {
       "brandName": "Neson Design",
       "keyboardName": "[Neson Design x Zephyr Lab] Z1",
       "fileName": "z1 (1).json",
@@ -903,6 +983,22 @@
       "filePath": "Nuxroskb/[Nuxroskb] Krush65/Krush 65 Solder/krush65_Solder.json",
       "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Nuxroskb",
       "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Nuxroskb/%5BNuxroskb%5D%20Krush65/Krush%2065%20Solder"
+    },
+    {
+      "brandName": "Nuxroskb",
+      "keyboardName": "[Nuxroskb] Sebas",
+      "fileName": "Sebas_60_Hotswap.json",
+      "filePath": "Nuxroskb/[Nuxroskb] Sebas/Sebas_60_Hotswap.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Nuxroskb",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Nuxroskb/%5BNuxroskb%5D%20Sebas"
+    },
+    {
+      "brandName": "Nuxroskb",
+      "keyboardName": "[Nuxroskb] Sebas",
+      "fileName": "Sebas_60_solder.json",
+      "filePath": "Nuxroskb/[Nuxroskb] Sebas/Sebas_60_solder.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Nuxroskb",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Nuxroskb/%5BNuxroskb%5D%20Sebas"
     },
     {
       "brandName": "Owlab",
@@ -1625,12 +1721,36 @@
       "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Whatever%20Studio/%5BWhatever%20Studio%5D%20Paper80"
     },
     {
+      "brandName": "Wired In",
+      "keyboardName": "[Wired In] Protagonist",
+      "fileName": "Protagonist60-hs.json",
+      "filePath": "Wired In/[Wired In] Protagonist/HotSwap/Protagonist60-hs.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Wired%20In",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Wired%20In/%5BWired%20In%5D%20Protagonist/HotSwap"
+    },
+    {
+      "brandName": "Wired In",
+      "keyboardName": "[Wired In] Protagonist",
+      "fileName": "Protagonist60-solder.json",
+      "filePath": "Wired In/[Wired In] Protagonist/Solder/Protagonist60-solder.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Wired%20In",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Wired%20In/%5BWired%20In%5D%20Protagonist/Solder"
+    },
+    {
       "brandName": "Wuque Studio",
       "keyboardName": "[Wuque Studio] Freya",
       "fileName": "Freya  wireless-via-v3.json",
       "filePath": "Wuque Studio/[Wuque Studio] Freya/Freya  wireless-via-v3.json",
       "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Wuque%20Studio",
       "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Wuque%20Studio/%5BWuque%20Studio%5D%20Freya"
+    },
+    {
+      "brandName": "XLPCB",
+      "keyboardName": "2000mini se",
+      "fileName": "2000mini se.json",
+      "filePath": "XLPCB/2000mini se/2000mini se.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/2000mini%20se"
     },
     {
       "brandName": "XLPCB",
@@ -1663,6 +1783,14 @@
       "filePath": "XLPCB/Alina80/Alina80-7U.json",
       "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
       "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Alina80"
+    },
+    {
+      "brandName": "XLPCB",
+      "keyboardName": "Andromeda 80%",
+      "fileName": "Hiney H87.json",
+      "filePath": "XLPCB/Andromeda 80%/Hiney H87.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Andromeda%2080%25"
     },
     {
       "brandName": "XLPCB",
@@ -1746,6 +1874,22 @@
     },
     {
       "brandName": "XLPCB",
+      "keyboardName": "GLARE65",
+      "fileName": "GLARE_65_1K.json",
+      "filePath": "XLPCB/GLARE65/GLARE_65_1K.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/GLARE65"
+    },
+    {
+      "brandName": "XLPCB",
+      "keyboardName": "GLARE65",
+      "fileName": "GLARE_65_8K.json",
+      "filePath": "XLPCB/GLARE65/GLARE_65_8K.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/GLARE65"
+    },
+    {
+      "brandName": "XLPCB",
       "keyboardName": "Han67",
       "fileName": "han67.json",
       "filePath": "XLPCB/Han67/han67.json",
@@ -1770,17 +1914,17 @@
     },
     {
       "brandName": "XLPCB",
-      "keyboardName": "Hiney  H60",
+      "keyboardName": "Hiney H60",
       "fileName": "H60.json",
-      "filePath": "XLPCB/Hiney  H60/单模/H60.json",
+      "filePath": "XLPCB/Hiney H60/单模/H60.json",
       "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
-      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Hiney%20%20H60/%E5%8D%95%E6%A8%A1"
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Hiney%20H60/%E5%8D%95%E6%A8%A1"
     },
     {
       "brandName": "XLPCB",
       "keyboardName": "hiney H80",
-      "fileName": "Hiney80.json",
-      "filePath": "XLPCB/hiney H80/单模/Hiney80.json",
+      "fileName": "Hiney80 1K.json",
+      "filePath": "XLPCB/hiney H80/单模/Hiney80 1K.json",
       "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
       "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/hiney%20H80/%E5%8D%95%E6%A8%A1"
     },
@@ -1789,6 +1933,22 @@
       "keyboardName": "hiney H80",
       "fileName": "Hiney H80 8K.json",
       "filePath": "XLPCB/hiney H80/单模 8K/Hiney H80 8K.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/hiney%20H80/%E5%8D%95%E6%A8%A1%208K"
+    },
+    {
+      "brandName": "XLPCB",
+      "keyboardName": "hiney H80",
+      "fileName": "Hiney H80 CEM3-8K.json",
+      "filePath": "XLPCB/hiney H80/单模 8K/Hiney H80 CEM3-8K.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/hiney%20H80/%E5%8D%95%E6%A8%A1%208K"
+    },
+    {
+      "brandName": "XLPCB",
+      "keyboardName": "hiney H80",
+      "fileName": "Hiney H80 FR4-8K.json",
+      "filePath": "XLPCB/hiney H80/单模 8K/Hiney H80 FR4-8K.json",
       "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
       "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/hiney%20H80/%E5%8D%95%E6%A8%A1%208K"
     },
@@ -1834,6 +1994,30 @@
     },
     {
       "brandName": "XLPCB",
+      "keyboardName": "Keycult No.2 65",
+      "fileName": "Keycult No.2 65-1k.json",
+      "filePath": "XLPCB/Keycult No.2 65/Keycult No.2 65-1k.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Keycult%20No.2%2065"
+    },
+    {
+      "brandName": "XLPCB",
+      "keyboardName": "Keycult No.2 65",
+      "fileName": "Keycult No.2 65-8k.json",
+      "filePath": "XLPCB/Keycult No.2 65/Keycult No.2 65-8k.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Keycult%20No.2%2065"
+    },
+    {
+      "brandName": "XLPCB",
+      "keyboardName": "Keycult No.2 80 TKL",
+      "fileName": "Keycult No.2 80tkl.json",
+      "filePath": "XLPCB/Keycult No.2 80 TKL/Keycult No.2 80tkl.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Keycult%20No.2%2080%20TKL"
+    },
+    {
+      "brandName": "XLPCB",
       "keyboardName": "Kohaku锦鲤",
       "fileName": "Singa Kohaku.json",
       "filePath": "XLPCB/Kohaku锦鲤/Singa Kohaku.json",
@@ -1850,6 +2034,22 @@
     },
     {
       "brandName": "XLPCB",
+      "keyboardName": "Lily60",
+      "fileName": "Lily60-1k.json",
+      "filePath": "XLPCB/Lily60/Lily60-1k.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Lily60"
+    },
+    {
+      "brandName": "XLPCB",
+      "keyboardName": "Lily60",
+      "fileName": "Lily60-8k.json",
+      "filePath": "XLPCB/Lily60/Lily60-8k.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Lily60"
+    },
+    {
+      "brandName": "XLPCB",
       "keyboardName": "link65",
       "fileName": "link65.json",
       "filePath": "XLPCB/link65/热插拔RGB/link65.json",
@@ -1863,6 +2063,30 @@
       "filePath": "XLPCB/link65/焊接/Link65.json",
       "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
       "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/link65/%E7%84%8A%E6%8E%A5"
+    },
+    {
+      "brandName": "XLPCB",
+      "keyboardName": "Luna70",
+      "fileName": "Luna70.json",
+      "filePath": "XLPCB/Luna70/Luna70.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Luna70"
+    },
+    {
+      "brandName": "XLPCB",
+      "keyboardName": "Matrix 2.0add",
+      "fileName": "大门牙.json",
+      "filePath": "XLPCB/Matrix 2.0add/大门牙.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Matrix%202.0add"
+    },
+    {
+      "brandName": "XLPCB",
+      "keyboardName": "Matrix 2.0add",
+      "fileName": "小门牙.json",
+      "filePath": "XLPCB/Matrix 2.0add/小门牙.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Matrix%202.0add"
     },
     {
       "brandName": "XLPCB",
@@ -1919,6 +2143,14 @@
       "filePath": "XLPCB/ROSE65SE/ROSE65SE.json",
       "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
       "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/ROSE65SE"
+    },
+    {
+      "brandName": "XLPCB",
+      "keyboardName": "Singa Unikorn独角兽",
+      "fileName": "Singa Unikorn DJS.json",
+      "filePath": "XLPCB/Singa Unikorn独角兽/Singa Unikorn DJS.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Singa%20Unikorn%E7%8B%AC%E8%A7%92%E5%85%BD"
     },
     {
       "brandName": "XLPCB",
@@ -2050,6 +2282,14 @@
     },
     {
       "brandName": "XLPCB",
+      "keyboardName": "Vega65",
+      "fileName": "Vega65.json",
+      "filePath": "XLPCB/Vega65/Vega65.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Vega65"
+    },
+    {
+      "brandName": "XLPCB",
       "keyboardName": "VENN65",
       "fileName": "VENN65.json",
       "filePath": "XLPCB/VENN65/VENN65.json",
@@ -2146,6 +2386,14 @@
     },
     {
       "brandName": "XLPCB",
+      "keyboardName": "左移GH64",
+      "fileName": "Xl_Gh60.json",
+      "filePath": "XLPCB/左移GH64/Xl_Gh60.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/%E5%B7%A6%E7%A7%BBGH64"
+    },
+    {
+      "brandName": "XLPCB",
       "keyboardName": "影64",
       "fileName": "Y64.json",
       "filePath": "XLPCB/影64/Y64.json",
@@ -2167,6 +2415,14 @@
       "filePath": "XLPCB/情书65/QS65.json",
       "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
       "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/%E6%83%85%E4%B9%A665"
+    },
+    {
+      "brandName": "XLPCB",
+      "keyboardName": "情书75",
+      "fileName": "QS75RGB.json",
+      "filePath": "XLPCB/情书75/QS75RGB.json",
+      "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+      "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/%E6%83%85%E4%B9%A675"
     },
     {
       "brandName": "XLPCB",
@@ -2266,6 +2522,27 @@
     }
   ],
   "brands": [
+    {
+      "name": "Alexotos",
+      "keyboards": [
+        {
+          "brandName": "Alexotos",
+          "keyboardName": "[Alexotos] Manta65",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Alexotos",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Alexotos/%5BAlexotos%5D%20Manta65",
+          "files": [
+            {
+              "fileName": "manta65_hotswap.json",
+              "filePath": "Alexotos/[Alexotos] Manta65/manta65_hotswap.json"
+            },
+            {
+              "fileName": "manta65_solder.json",
+              "filePath": "Alexotos/[Alexotos] Manta65/manta65_solder.json"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Atelier Haven",
       "keyboards": [
@@ -2807,6 +3084,59 @@
       ]
     },
     {
+      "name": "KBDFans",
+      "keyboards": [
+        {
+          "brandName": "KBDFans",
+          "keyboardName": "[KBDFans] Agar",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans/%5BKBDFans%5D%20Agar/MX%20Hotswap",
+          "files": [
+            {
+              "fileName": "ydkb_kbdfans_agar_via.json",
+              "filePath": "KBDFans/[KBDFans] Agar/MX Hotswap/ydkb_kbdfans_agar_via.json"
+            },
+            {
+              "fileName": "ydkb_kbdfans_agar_via.json",
+              "filePath": "KBDFans/[KBDFans] Agar/MX solder/ydkb_kbdfans_agar_via.json"
+            }
+          ]
+        },
+        {
+          "brandName": "KBDFans",
+          "keyboardName": "[KBDFans] Athena 1800",
+          "fileName": "ydkb_kbdfans_athena1800_via_v3_250822.json",
+          "filePath": "KBDFans/[KBDFans] Athena 1800/ydkb_kbdfans_athena1800_via_v3_250822.json",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans/%5BKBDFans%5D%20Athena%201800"
+        },
+        {
+          "brandName": "KBDFans",
+          "keyboardName": "[KBDFans] Boomerang",
+          "fileName": "ydkb_kbdfans_boomerang_via.json",
+          "filePath": "KBDFans/[KBDFans] Boomerang/ydkb_kbdfans_boomerang_via.json",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans/%5BKBDFans%5D%20Boomerang"
+        },
+        {
+          "brandName": "KBDFans",
+          "keyboardName": "[KBDFans] Eden R2",
+          "fileName": "ydkb_kbdfans_eden_v2_via.json",
+          "filePath": "KBDFans/[KBDFans] Eden R2/ydkb_kbdfans_eden_v2_via.json",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans/%5BKBDFans%5D%20Eden%20R2"
+        },
+        {
+          "brandName": "KBDFans",
+          "keyboardName": "[KBDFans] Tofix 8K",
+          "fileName": "kbd87.json",
+          "filePath": "KBDFans/[KBDFans] Tofix 8K/kbd87.json",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/KBDFans/%5BKBDFans%5D%20Tofix%208K"
+        }
+      ]
+    },
+    {
       "name": "Kibou",
       "keyboards": [
         {
@@ -3051,6 +3381,14 @@
           "filePath": "Machina/[Machina] Orbit/Machina Orbit PCB.json",
           "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Machina",
           "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Machina/%5BMachina%5D%20Orbit"
+        },
+        {
+          "brandName": "Machina",
+          "keyboardName": "[Machina] Tiga",
+          "fileName": "info-via-tiga.json",
+          "filePath": "Machina/[Machina] Tiga/info-via-tiga.json",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Machina",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Machina/%5BMachina%5D%20Tiga"
         }
       ]
     },
@@ -3189,6 +3527,19 @@
       ]
     },
     {
+      "name": "MM Studio",
+      "keyboards": [
+        {
+          "brandName": "MM Studio",
+          "keyboardName": "[MM Studio] Class 65 v2",
+          "fileName": "class65-via.json",
+          "filePath": "MM Studio/[MM Studio] Class 65 v2/class65-via.json",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/MM%20Studio",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/MM%20Studio/%5BMM%20Studio%5D%20Class%2065%20v2"
+        }
+      ]
+    },
+    {
       "name": "Neson Design",
       "keyboards": [
         {
@@ -3262,6 +3613,22 @@
             {
               "fileName": "krush65_Solder.json",
               "filePath": "Nuxroskb/[Nuxroskb] Krush65/Krush 65 Solder/krush65_Solder.json"
+            }
+          ]
+        },
+        {
+          "brandName": "Nuxroskb",
+          "keyboardName": "[Nuxroskb] Sebas",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Nuxroskb",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Nuxroskb/%5BNuxroskb%5D%20Sebas",
+          "files": [
+            {
+              "fileName": "Sebas_60_Hotswap.json",
+              "filePath": "Nuxroskb/[Nuxroskb] Sebas/Sebas_60_Hotswap.json"
+            },
+            {
+              "fileName": "Sebas_60_solder.json",
+              "filePath": "Nuxroskb/[Nuxroskb] Sebas/Sebas_60_solder.json"
             }
           ]
         }
@@ -4013,6 +4380,27 @@
       ]
     },
     {
+      "name": "Wired In",
+      "keyboards": [
+        {
+          "brandName": "Wired In",
+          "keyboardName": "[Wired In] Protagonist",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Wired%20In",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/Wired%20In/%5BWired%20In%5D%20Protagonist/HotSwap",
+          "files": [
+            {
+              "fileName": "Protagonist60-hs.json",
+              "filePath": "Wired In/[Wired In] Protagonist/HotSwap/Protagonist60-hs.json"
+            },
+            {
+              "fileName": "Protagonist60-solder.json",
+              "filePath": "Wired In/[Wired In] Protagonist/Solder/Protagonist60-solder.json"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Wuque Studio",
       "keyboards": [
         {
@@ -4028,6 +4416,14 @@
     {
       "name": "XLPCB",
       "keyboards": [
+        {
+          "brandName": "XLPCB",
+          "keyboardName": "2000mini se",
+          "fileName": "2000mini se.json",
+          "filePath": "XLPCB/2000mini se/2000mini se.json",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/2000mini%20se"
+        },
         {
           "brandName": "XLPCB",
           "keyboardName": "43-980",
@@ -4059,6 +4455,14 @@
               "filePath": "XLPCB/Alina80/Alina80-7U.json"
             }
           ]
+        },
+        {
+          "brandName": "XLPCB",
+          "keyboardName": "Andromeda 80%",
+          "fileName": "Hiney H87.json",
+          "filePath": "XLPCB/Andromeda 80%/Hiney H87.json",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Andromeda%2080%25"
         },
         {
           "brandName": "XLPCB",
@@ -4142,6 +4546,22 @@
         },
         {
           "brandName": "XLPCB",
+          "keyboardName": "GLARE65",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/GLARE65",
+          "files": [
+            {
+              "fileName": "GLARE_65_1K.json",
+              "filePath": "XLPCB/GLARE65/GLARE_65_1K.json"
+            },
+            {
+              "fileName": "GLARE_65_8K.json",
+              "filePath": "XLPCB/GLARE65/GLARE_65_8K.json"
+            }
+          ]
+        },
+        {
+          "brandName": "XLPCB",
           "keyboardName": "Han67",
           "fileName": "han67.json",
           "filePath": "XLPCB/Han67/han67.json",
@@ -4166,11 +4586,11 @@
         },
         {
           "brandName": "XLPCB",
-          "keyboardName": "Hiney  H60",
+          "keyboardName": "Hiney H60",
           "fileName": "H60.json",
-          "filePath": "XLPCB/Hiney  H60/单模/H60.json",
+          "filePath": "XLPCB/Hiney H60/单模/H60.json",
           "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
-          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Hiney%20%20H60/%E5%8D%95%E6%A8%A1"
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Hiney%20H60/%E5%8D%95%E6%A8%A1"
         },
         {
           "brandName": "XLPCB",
@@ -4179,12 +4599,20 @@
           "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/hiney%20H80/%E5%8D%95%E6%A8%A1",
           "files": [
             {
-              "fileName": "Hiney80.json",
-              "filePath": "XLPCB/hiney H80/单模/Hiney80.json"
+              "fileName": "Hiney80 1K.json",
+              "filePath": "XLPCB/hiney H80/单模/Hiney80 1K.json"
             },
             {
               "fileName": "Hiney H80 8K.json",
               "filePath": "XLPCB/hiney H80/单模 8K/Hiney H80 8K.json"
+            },
+            {
+              "fileName": "Hiney H80 CEM3-8K.json",
+              "filePath": "XLPCB/hiney H80/单模 8K/Hiney H80 CEM3-8K.json"
+            },
+            {
+              "fileName": "Hiney H80 FR4-8K.json",
+              "filePath": "XLPCB/hiney H80/单模 8K/Hiney H80 FR4-8K.json"
             }
           ]
         },
@@ -4230,6 +4658,30 @@
         },
         {
           "brandName": "XLPCB",
+          "keyboardName": "Keycult No.2 65",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Keycult%20No.2%2065",
+          "files": [
+            {
+              "fileName": "Keycult No.2 65-1k.json",
+              "filePath": "XLPCB/Keycult No.2 65/Keycult No.2 65-1k.json"
+            },
+            {
+              "fileName": "Keycult No.2 65-8k.json",
+              "filePath": "XLPCB/Keycult No.2 65/Keycult No.2 65-8k.json"
+            }
+          ]
+        },
+        {
+          "brandName": "XLPCB",
+          "keyboardName": "Keycult No.2 80 TKL",
+          "fileName": "Keycult No.2 80tkl.json",
+          "filePath": "XLPCB/Keycult No.2 80 TKL/Keycult No.2 80tkl.json",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Keycult%20No.2%2080%20TKL"
+        },
+        {
+          "brandName": "XLPCB",
           "keyboardName": "Kohaku锦鲤",
           "fileName": "Singa Kohaku.json",
           "filePath": "XLPCB/Kohaku锦鲤/Singa Kohaku.json",
@@ -4246,6 +4698,22 @@
         },
         {
           "brandName": "XLPCB",
+          "keyboardName": "Lily60",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Lily60",
+          "files": [
+            {
+              "fileName": "Lily60-1k.json",
+              "filePath": "XLPCB/Lily60/Lily60-1k.json"
+            },
+            {
+              "fileName": "Lily60-8k.json",
+              "filePath": "XLPCB/Lily60/Lily60-8k.json"
+            }
+          ]
+        },
+        {
+          "brandName": "XLPCB",
           "keyboardName": "link65",
           "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
           "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/link65/%E7%83%AD%E6%8F%92%E6%8B%94RGB",
@@ -4257,6 +4725,30 @@
             {
               "fileName": "Link65.json",
               "filePath": "XLPCB/link65/焊接/Link65.json"
+            }
+          ]
+        },
+        {
+          "brandName": "XLPCB",
+          "keyboardName": "Luna70",
+          "fileName": "Luna70.json",
+          "filePath": "XLPCB/Luna70/Luna70.json",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Luna70"
+        },
+        {
+          "brandName": "XLPCB",
+          "keyboardName": "Matrix 2.0add",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Matrix%202.0add",
+          "files": [
+            {
+              "fileName": "大门牙.json",
+              "filePath": "XLPCB/Matrix 2.0add/大门牙.json"
+            },
+            {
+              "fileName": "小门牙.json",
+              "filePath": "XLPCB/Matrix 2.0add/小门牙.json"
             }
           ]
         },
@@ -4315,6 +4807,14 @@
           "filePath": "XLPCB/ROSE65SE/ROSE65SE.json",
           "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
           "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/ROSE65SE"
+        },
+        {
+          "brandName": "XLPCB",
+          "keyboardName": "Singa Unikorn独角兽",
+          "fileName": "Singa Unikorn DJS.json",
+          "filePath": "XLPCB/Singa Unikorn独角兽/Singa Unikorn DJS.json",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Singa%20Unikorn%E7%8B%AC%E8%A7%92%E5%85%BD"
         },
         {
           "brandName": "XLPCB",
@@ -4434,6 +4934,14 @@
         },
         {
           "brandName": "XLPCB",
+          "keyboardName": "Vega65",
+          "fileName": "Vega65.json",
+          "filePath": "XLPCB/Vega65/Vega65.json",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/Vega65"
+        },
+        {
+          "brandName": "XLPCB",
           "keyboardName": "VENN65",
           "fileName": "VENN65.json",
           "filePath": "XLPCB/VENN65/VENN65.json",
@@ -4530,6 +5038,14 @@
         },
         {
           "brandName": "XLPCB",
+          "keyboardName": "左移GH64",
+          "fileName": "Xl_Gh60.json",
+          "filePath": "XLPCB/左移GH64/Xl_Gh60.json",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/%E5%B7%A6%E7%A7%BBGH64"
+        },
+        {
+          "brandName": "XLPCB",
           "keyboardName": "影64",
           "fileName": "Y64.json",
           "filePath": "XLPCB/影64/Y64.json",
@@ -4551,6 +5067,14 @@
           "filePath": "XLPCB/情书65/QS65.json",
           "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
           "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/%E6%83%85%E4%B9%A665"
+        },
+        {
+          "brandName": "XLPCB",
+          "keyboardName": "情书75",
+          "fileName": "QS75RGB.json",
+          "filePath": "XLPCB/情书75/QS75RGB.json",
+          "brandGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB",
+          "keyboardGithubUrl": "https://github.com/KBD-Type-S/via_json/tree/main/XLPCB/%E6%83%85%E4%B9%A675"
         },
         {
           "brandName": "XLPCB",
@@ -4656,7 +5180,7 @@
       ]
     }
   ],
-  "generatedAt": "2026-04-23T16:47:55.157337Z",
-  "totalViaFiles": 283,
-  "totalBrands": 41
+  "generatedAt": "2026-07-14T14:13:31.646543Z",
+  "totalViaFiles": 315,
+  "totalBrands": 45
 }

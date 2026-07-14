@@ -73,6 +73,24 @@
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Ai03\\[Ai03] Vega"
     },
     {
+      "brandName": "Alexotos",
+      "keyboardName": "[Alexotos] Manta65",
+      "fileName": "Manta_Soft_Plate_File(PC_PP).dxf",
+      "filePath": "Alexotos\\[Alexotos] Manta65\\Manta_Soft_Plate_File(PC_PP).dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Alexotos\\[Alexotos] Manta65/Manta_Soft_Plate_File(PC_PP).png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Alexotos",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Alexotos\\[Alexotos] Manta65"
+    },
+    {
+      "brandName": "Alexotos",
+      "keyboardName": "[Alexotos] Manta65",
+      "fileName": "Manta_stiff_plate_file(CF_Alu).dxf",
+      "filePath": "Alexotos\\[Alexotos] Manta65\\Manta_stiff_plate_file(CF_Alu).dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Alexotos\\[Alexotos] Manta65/Manta_stiff_plate_file(CF_Alu).png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Alexotos",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Alexotos\\[Alexotos] Manta65"
+    },
+    {
       "brandName": "Archon",
       "keyboardName": "[Archon] Fx2(GX)",
       "fileName": "fx2_논플컷.dwg",
@@ -2429,6 +2447,33 @@
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/JJW\\[JJW] Moment R1/moment_half_plate_plastic-ansi.png",
       "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/JJW",
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/JJW\\[JJW] Moment R1"
+    },
+    {
+      "brandName": "KBDFans",
+      "keyboardName": "[KBDFans] Agar",
+      "fileName": "agar_dynacap.dxf",
+      "filePath": "KBDFans\\[KBDFans] Agar\\agar_dynacap.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/KBDFans\\[KBDFans] Agar/agar_dynacap.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/KBDFans",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/KBDFans\\[KBDFans] Agar"
+    },
+    {
+      "brandName": "KBDFans",
+      "keyboardName": "[KBDFans] Agar",
+      "fileName": "agar_mx.dxf",
+      "filePath": "KBDFans\\[KBDFans] Agar\\agar_mx.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/KBDFans\\[KBDFans] Agar/agar_mx.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/KBDFans",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/KBDFans\\[KBDFans] Agar"
+    },
+    {
+      "brandName": "KBDFans",
+      "keyboardName": "[KBDFans] Agar",
+      "fileName": "agar_topre.dxf",
+      "filePath": "KBDFans\\[KBDFans] Agar\\agar_topre.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/KBDFans\\[KBDFans] Agar/agar_topre.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/KBDFans",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/KBDFans\\[KBDFans] Agar"
     },
     {
       "brandName": "KBDFans",
@@ -6456,8 +6501,8 @@
     {
       "brandName": "Qwertykeys",
       "keyboardName": "[Qwertykeys] Neo60 cu",
-      "fileName": "Neo60 Cu.dwg",
-      "filePath": "Qwertykeys\\[Qwertykeys] Neo60 cu\\Neo60 Cu.dwg",
+      "fileName": "Neo60 Cu.dxf",
+      "filePath": "Qwertykeys\\[Qwertykeys] Neo60 cu\\Neo60 Cu.dxf",
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Qwertykeys\\[Qwertykeys] Neo60 cu/Neo60 Cu.png",
       "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys",
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys\\[Qwertykeys] Neo60 cu"
@@ -7802,6 +7847,20 @@
       ]
     },
     {
+      "name": "Alexotos",
+      "keyboards": [
+        {
+          "brandName": "Alexotos",
+          "keyboardName": "[Alexotos] Manta65",
+          "fileName": "Manta_Soft_Plate_File(PC_PP).dxf, Manta_stiff_plate_file(CF_Alu).dxf",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Alexotos\\[Alexotos] Manta65/Manta_Soft_Plate_File(PC_PP).png",
+          "filePath": "Alexotos\\[Alexotos] Manta65\\Manta_Soft_Plate_File(PC_PP).dxf",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Alexotos",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Alexotos\\[Alexotos] Manta65"
+        }
+      ]
+    },
+    {
       "name": "Archon",
       "keyboards": [
         {
@@ -8756,6 +8815,15 @@
     {
       "name": "KBDFans",
       "keyboards": [
+        {
+          "brandName": "KBDFans",
+          "keyboardName": "[KBDFans] Agar",
+          "fileName": "agar_dynacap.dxf, agar_mx.dxf, agar_topre.dxf",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/KBDFans\\[KBDFans] Agar/agar_dynacap.png",
+          "filePath": "KBDFans\\[KBDFans] Agar\\agar_dynacap.dxf",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/KBDFans",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/KBDFans\\[KBDFans] Agar"
+        },
         {
           "brandName": "KBDFans",
           "keyboardName": "[KBDFans] Agar Mini",
@@ -10885,9 +10953,9 @@
         {
           "brandName": "Qwertykeys",
           "keyboardName": "[Qwertykeys] Neo60 cu",
-          "fileName": "Neo60 Cu.dwg",
+          "fileName": "Neo60 Cu.dxf",
           "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Qwertykeys\\[Qwertykeys] Neo60 cu/Neo60 Cu.png",
-          "filePath": "Qwertykeys\\[Qwertykeys] Neo60 cu\\Neo60 Cu.dwg",
+          "filePath": "Qwertykeys\\[Qwertykeys] Neo60 cu\\Neo60 Cu.dxf",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys",
           "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Qwertykeys\\[Qwertykeys] Neo60 cu"
         },
@@ -11505,7 +11573,7 @@
       ]
     }
   ],
-  "generatedAt": "2026-04-25T14:22:22.662900Z",
-  "totalPlates": 862,
-  "totalBrands": 72
+  "generatedAt": "2026-07-14T14:13:31.537497Z",
+  "totalPlates": 867,
+  "totalBrands": 73
 }
