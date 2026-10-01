@@ -1945,6 +1945,24 @@
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Hannn KB\\[HannnKB] pro2k"
     },
     {
+      "brandName": "Hatoworks",
+      "keyboardName": "[Hatoworks] Ramune60",
+      "fileName": "Ramune60.dwg",
+      "filePath": "Hatoworks\\[Hatoworks] Ramune60\\Ramune60.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Hatoworks\\[Hatoworks] Ramune60/Ramune60.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Hatoworks",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Hatoworks\\[Hatoworks] Ramune60"
+    },
+    {
+      "brandName": "Hatoworks",
+      "keyboardName": "[Hatoworks] Ramune60",
+      "fileName": "Ramune60_non_leaf.dwg",
+      "filePath": "Hatoworks\\[Hatoworks] Ramune60\\Ramune60_non_leaf.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Hatoworks\\[Hatoworks] Ramune60/Ramune60_non_leaf.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Hatoworks",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Hatoworks\\[Hatoworks] Ramune60"
+    },
+    {
       "brandName": "Heavy Metal Keyboards",
       "keyboardName": "[HMKB] HMKB 40",
       "fileName": "HMKB-40-PLT-PLOP-700U.dxf",
@@ -6492,6 +6510,15 @@
     {
       "brandName": "Owlab",
       "keyboardName": "[Owlab] Mr.Suit80",
+      "fileName": "20546_2_SUIT-定位板（pcb卫星轴）.dwg",
+      "filePath": "Owlab\\[Owlab] Mr.Suit80\\20546_2_SUIT-定位板（pcb卫星轴）.dwg",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Owlab\\[Owlab] Mr.Suit80/20546_2_SUIT-定位板（pcb卫星轴）.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Owlab",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Owlab\\[Owlab] Mr.Suit80"
+    },
+    {
+      "brandName": "Owlab",
+      "keyboardName": "[Owlab] Mr.Suit80",
       "fileName": "Mr.suit_슷바뻥.dwg",
       "filePath": "Owlab\\[Owlab] Mr.Suit80\\Mr.suit_슷바뻥.dwg",
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Owlab\\[Owlab] Mr.Suit80/Mr.suit_슷바뻥.png",
@@ -6513,6 +6540,15 @@
       "fileName": "SUIT-Split-Holyshit.dwg",
       "filePath": "Owlab\\[Owlab] Mr.Suit80\\SUIT-Split-Holyshit.dwg",
       "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Owlab\\[Owlab] Mr.Suit80/SUIT-Split-Holyshit.png",
+      "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Owlab",
+      "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Owlab\\[Owlab] Mr.Suit80"
+    },
+    {
+      "brandName": "Owlab",
+      "keyboardName": "[Owlab] Mr.Suit80",
+      "fileName": "SUIT_7u_og.dxf",
+      "filePath": "Owlab\\[Owlab] Mr.Suit80\\SUIT_7u_og.dxf",
+      "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Owlab\\[Owlab] Mr.Suit80/SUIT_7u_og.png",
       "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Owlab",
       "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Owlab\\[Owlab] Mr.Suit80"
     },
@@ -8753,6 +8789,20 @@
       ]
     },
     {
+      "name": "Hatoworks",
+      "keyboards": [
+        {
+          "brandName": "Hatoworks",
+          "keyboardName": "[Hatoworks] Ramune60",
+          "fileName": "Ramune60.dwg, Ramune60_non_leaf.dwg",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Hatoworks\\[Hatoworks] Ramune60/Ramune60.png",
+          "filePath": "Hatoworks\\[Hatoworks] Ramune60\\Ramune60.dwg",
+          "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Hatoworks",
+          "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Hatoworks\\[Hatoworks] Ramune60"
+        }
+      ]
+    },
+    {
       "name": "Heavy Metal Keyboards",
       "keyboards": [
         {
@@ -10984,9 +11034,9 @@
         {
           "brandName": "Owlab",
           "keyboardName": "[Owlab] Mr.Suit80",
-          "fileName": "Mr.suit_슷바뻥.dwg, suit-7u-pcb-non-flex.dwg, SUIT-Split-Holyshit.dwg",
-          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Owlab\\[Owlab] Mr.Suit80/Mr.suit_슷바뻥.png",
-          "filePath": "Owlab\\[Owlab] Mr.Suit80\\Mr.suit_슷바뻥.dwg",
+          "fileName": "20546_2_SUIT-定位板（pcb卫星轴）.dwg, Mr.suit_슷바뻥.dwg, suit-7u-pcb-non-flex.dwg, SUIT-Split-Holyshit.dwg, SUIT_7u_og.dxf",
+          "imageUrl": "https://raw.githubusercontent.com/naraku010/keyboard_layout/main/Owlab\\[Owlab] Mr.Suit80/20546_2_SUIT-定位板（pcb卫星轴）.png",
+          "filePath": "Owlab\\[Owlab] Mr.Suit80\\20546_2_SUIT-定位板（pcb卫星轴）.dwg",
           "brandGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Owlab",
           "keyboardGithubUrl": "https://github.com/naraku010/keyboard_layout/tree/main/Owlab\\[Owlab] Mr.Suit80"
         },
@@ -11654,7 +11704,7 @@
       ]
     }
   ],
-  "generatedAt": "2026-07-27T11:43:00.022208Z",
-  "totalPlates": 875,
-  "totalBrands": 73
+  "generatedAt": "2026-09-09T10:49:06.302693Z",
+  "totalPlates": 879,
+  "totalBrands": 74
 }
